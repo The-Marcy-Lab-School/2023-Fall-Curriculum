@@ -1,7 +1,5 @@
 # Curriculum Resources
 
-**[> Skip to current unit <](#unit-0---command-line-git-github)**
-
 **Tips & Tricks to Success at Marcy**
 
 - [How to Boost Your Confidence as a New Programmer](https://marcylabschool.notion.site/marcylabschool/How-to-Boost-Your-Confidence-as-a-New-Programmer-3e08b5dc231444adb5770228696041ac)
@@ -16,6 +14,8 @@
 - **Mac Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-mac
 - **Windows/WSL Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-wsl
 - **Github Setup**: https://github.com/The-Marcy-Lab-School/github-setup
+
+**[> Skip to current unit <](#unit-0---command-line-git-github)**
 
 **Table of Contents**
 
