@@ -25,7 +25,7 @@
 
 ## Unit 0 - Command Line, Git, Github
 
-- **10/2/23 - Intro to Command Line Interfaces** | [Slides](https://shorturl.at/dsxYZ) | Recording
+- **10/2/23 - Intro to Command Line Interfaces** | [Slides](https://shorturl.at/dsxYZ) | [Recording](https://us02web.zoom.us/rec/share/BGNxtGLjsHWCh-bsEIHZHy_4JwXcU0kWeCkKIorXZ3Iv2gKL0HhBWBurKStmwfxQ.m6loHT5GXqxQ68r3)
 - **10/3/23 - Intro to Git & Github** | [Slides](https://docs.google.com/presentation/d/1ZJZB_i15KlU1h6fO_3Up50PFv_c6juj5oRCCIhChK2o/edit?usp=sharing) | Recording
 - **10/4/23 - Collaborative Git | Slides | Recording**
 - **10/5/23 - Reivew | Slides | Recording**
