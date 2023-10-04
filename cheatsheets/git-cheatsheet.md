@@ -26,10 +26,10 @@ Merge conflicts occur when we have code that could possibly overwrite code that 
 
 <details><summary>Things to avoid</summary><br>
 
-The main branch should always have working code so as a best practice, we shouldn't
+The `main` branch should always have working code so as a best practice...
 
-- Work off of the `main` branch.
-- Merge code that hasn't been tested into the `main` branch .
+- Don't work off of the `main` branch.
+- Avoid merging code that hasn't been tested or reviewed into the `main` branch.
 
 </details>
 
@@ -99,11 +99,17 @@ git checkout ben-feature-A
 git merge main
 ```
 
-You may need to resolve merge conflicts at this point.
+You may need to resolve merge conflicts at this point. To resolve a conflict, delete the `<<<<<<< HEAD`, `=======`, and `>>>>>>> main` markers and keep the code that you want.
 
-> If you see this screen asking you to enter a commit message, simply type <kbd>:q</kbd> to quit and accept the default merge message.
+![](./img/merge-conflict.png)
 
-![](assets/git-merge-message.png)
+Finally, make a new commit to finish resolving these conflicts:
+
+```
+git add -A
+git commit -m 'merging main into my branch'
+git push
+```
 
 ## Push and make a PR
 
