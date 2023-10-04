@@ -37,7 +37,12 @@ The main branch should always have working code so as a best practice, we should
 
 Each team member should own their own branch and work exclusively on that branch.
 
-First, create a branch and switch to it:
+```
+git branch ben-feature-A
+git checkout ben-feature-A
+```
+
+Or, create a branch and switch to it in one command:
 
 ```
 git checkout -b ben-feature-A
