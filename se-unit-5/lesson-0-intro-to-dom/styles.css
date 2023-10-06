@@ -1,9 +1,0 @@
-body {
-  font-family: Arial;
-}
-
-table, th, td {
-  border: 1px solid;
-  padding: 10px;
-  border-collapse: collapse;
-}
