@@ -50,7 +50,7 @@
 
 - [Eloquent JavaScript (Online Textbook)](https://eloquentjavascript.net/)
 - [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
-- [Codecademy: Intro to JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
 
 #### Week 1
 
