@@ -40,7 +40,7 @@
 - **10/2/23 - Intro to Command Line Interfaces** | [Slides](https://shorturl.at/dsxYZ) | [Lecture Recording](https://youtu.be/7SpoQeMzjSs?si=qsmxgrnN5PZi5LdB) | [Lab Review Recording](https://youtu.be/GQWKt8teDug?si=yjsb6tiV37hCuEbH)
 - **10/3/23 - Intro to Git & Github** | [Slides](https://docs.google.com/presentation/d/1ZJZB_i15KlU1h6fO_3Up50PFv_c6juj5oRCCIhChK2o/edit?usp=sharing) | [Recording](https://youtu.be/PVCeVglk304?si=CkyHOORLuGl4CQJO)
 - **10/4/23 - Collaborative Git** | [Slides](https://docs.google.com/presentation/d/1IA9kq0wCzPmeEfel3CwN-KiRev959AWaZ2xQnW0p1uo/edit#slide=id.g158fbd3a59f_0_228) | [Lecture Recording](https://youtu.be/ObygNwtdGPw) | [Lab Review Recording](https://youtu.be/0p5XnoNgZVY)
-- **10/5/23 - Review** | [Part 1 Recording](https://youtu.be/U4obuOcDj4w) | [Part 2 Recording](https://youtu.be/y5LuOhbCz88) | [Git Workflow Notes](./se-unit-0/git-workflow-notes.md)
+- **10/5/23 - Review** | [Part 1 Recording](https://youtu.be/U4obuOcDj4w) | [Part 2 Recording](https://youtu.be/y5LuOhbCz88) | [Git Workflow Notes](./mod-0/git-workflow-notes.md)
 
 ---
 
