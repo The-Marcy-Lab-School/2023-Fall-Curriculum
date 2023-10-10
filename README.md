@@ -54,7 +54,7 @@
 
 #### Week 1
 
-- **10/10/23 - Intro to Node** | Slides | Lecture Recording
+- **10/10/23 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/10Op4ZnmbUbm1Zv48vcIR5h2vkr9wpZULwAg6NYbzd9w/) | Lecture Recording
 - **10/11/23 - Variables, Functions, and Strings** | Slides | Lecture Recording
 - **10/11/23 - Control Flow** | Slides | Lecture Recording
 - **10/12/23 - Problem Solving** | Slides | Lecture Recording
