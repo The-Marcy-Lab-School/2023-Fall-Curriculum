@@ -55,7 +55,7 @@
 #### Week 1
 
 - **10/10/23 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/10Op4ZnmbUbm1Zv48vcIR5h2vkr9wpZULwAg6NYbzd9w/) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
-- **10/11/23 - Variables, Functions, and Strings** | [Slides](https://docs.google.com/presentation/d/1_BzZepwXrkVL-LzpkPA5ITvM-bH9n0_BnnrzwJJZByo/) | Lecture Recording
+- **10/11/23 - Variables, Functions, and Strings** | [Slides](https://docs.google.com/presentation/d/1_BzZepwXrkVL-LzpkPA5ITvM-bH9n0_BnnrzwJJZByo/) | [Lecture Recording](https://youtu.be/iambf_jDL0Q)
 - **10/11/23 - Control Flow** | [Slides](https://docs.google.com/presentation/d/102SIHvxRHHJ-_979yJdyq-3dI5NEVSME0uyBrSmgvrk/) | Lecture Recording
 - **10/12/23 - Problem Solving** | [Slides](https://docs.google.com/presentation/d/1zIhyh3UNJ9oQAUg0aBUFDhdvqalXGH1q0Xs0L3fsQTc/) | Lecture Recording
 
