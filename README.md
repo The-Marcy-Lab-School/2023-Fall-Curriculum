@@ -62,7 +62,7 @@
 #### Week 2
 
 - **10/16/23 - Loops** | [Slides](https://docs.google.com/presentation/d/1enxsqCt0OykPNWNBW1zsGY6MMruJVogAAuwhB75ZsuQ/) | [Key Terms](./mod-1/1-1-0-loops/key-terms.md) | [Code](./mod-1/1-1-0-loops/) | [Lecture Recording](https://youtu.be/RJn3sCaiIr0)
-- **10/17/23 - Arrays** | [Slides](https://docs.google.com/presentation/d/1jbe807oy9VTKov1ADxN1NteO7lxq1nscqkWApNSdkkc) | Lecture Recording
+- **10/17/23 - Arrays** | [Slides](https://docs.google.com/presentation/d/1jbe807oy9VTKov1ADxN1NteO7lxq1nscqkWApNSdkkc) | [Key Terms](./mod-1/1-1-1-arrays/key-terms.md) | [Code](./mod-1/1-1-1-arrays/) | [Lecture Recording](https://youtu.be/4X5_LW1WDxg)
 - **10/18/23 - Objects** | [Slides](https://docs.google.com/presentation/d/1uB1uPTGdaKhwvPD11kYyaiuh9I0j3zow6ZsW2UXDvvI) | Lecture Recording
 - **10/19/23 - Review** | Slides | Lecture Recording
 
