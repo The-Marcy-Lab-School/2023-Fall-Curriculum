@@ -1,19 +1,20 @@
-const prompt = require('prompt-sync')({ sigint: true });
+/* 
+When the key name of a property is not known until 
+you run the program, we can add "dynamic" properties 
+using bracket notation (we can't use dot notation)
+*/
 
-const dynamicKey = 'price';
+const prompt = require("prompt-sync")({ sigint: true });
+
 const car = {
-  name: 'Corolla',
-  maker: 'Toyota',
-  // [dynamicKey]: 27000, // dynamic key in literal view (a bit rarer)
+  name: "Corolla",
+  maker: "Toyota",
 };
-car[dynamicKey] = 27000;
 
-console.log(car.price); // 27000
+console.log("Add a property to the car!");
+const property = prompt("Name the property!");
+const value = prompt("Add a value!");
+car[property] = value;
 
-// example where dynamic keys are useful
-const nameCarProperty = (car) => {
-  const property = prompt("Name the property!");
-  console.log(car[property]);
-}
-
-nameCarProperty(car);
+console.log("your car now has these properties:");
+console.log(car);
