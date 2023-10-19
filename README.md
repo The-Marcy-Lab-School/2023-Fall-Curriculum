@@ -4,9 +4,19 @@
 
 ### Table of Contents
 
-- [Orientation](#orientation)
-- [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
-- [Mod 1 - Core JavaScript](#mod-1---core-javascript)
+- [Curriculum Resources](#curriculum-resources)
+    - [Table of Contents](#table-of-contents)
+  - [Orientation](#orientation)
+  - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
+      - [Resources](#resources)
+      - [Week 1](#week-1)
+  - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
+      - [Resources](#resources-1)
+      - [Labs](#labs)
+      - [Week 1](#week-1-1)
+      - [Week 2](#week-2)
+      - [Week 3](#week-3)
+      - [Week 4](#week-4)
 
 ---
 
@@ -69,9 +79,9 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 #### Week 2
 
 - **10/16/23 - Loops** | [Slides](https://docs.google.com/presentation/d/1enxsqCt0OykPNWNBW1zsGY6MMruJVogAAuwhB75ZsuQ/) | [Key Terms](./mod-1/1-1-0-loops/key-terms.md) | [Code](./mod-1/1-1-0-loops/) | [Lecture Recording](https://youtu.be/RJn3sCaiIr0)
-- **10/17/23 - Arrays** | [Slides](https://docs.google.com/presentation/d/1jbe807oy9VTKov1ADxN1NteO7lxq1nscqkWApNSdkkc) | [Key Terms](./mod-1/1-1-1-arrays/key-terms.md) | [Code](./mod-1/1-1-1-arrays/) | [Lecture Recording](https://youtu.be/4X5_LW1WDxg)
+- **10/17/23 - Arrays** | [Slides](https://docs.google.com/presentation/d/1jbe807oy9VTKov1ADxN1NteO7lxq1nscqkWApNSdkkc) | [Key Terms](./mod-1/1-1-1-arrays/key-terms.md) | [Code](./mod-1/1-1-1-arrays/) | [Lecture Recording](https://youtu.be/2XiMtYLntTw)
 - **10/18/23 - Objects** | [Slides](https://docs.google.com/presentation/d/1uB1uPTGdaKhwvPD11kYyaiuh9I0j3zow6ZsW2UXDvvI) | [Key Terms](./mod-1/1-1-2-objects/key-terms.md) | [Code](./mod-1/1-1-2-objects/) | [Destructuring Objects Function Code](./mod-1/1-1-2-objects/destructuring-function-example.js) | Lecture Recording
-- **10/19/23 - Review** | [Code](./mod-1/1-1-3-array-object-review.js) | Lecture Recording
+- **10/19/23 - Review** | [Code](./mod-1/1-1-3-array-object-review.js) | [Lecture Recording](https://youtu.be/PWKpu2c2J7o)
 
 #### Week 3
 
