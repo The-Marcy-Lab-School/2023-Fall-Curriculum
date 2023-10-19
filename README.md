@@ -52,6 +52,13 @@
 - [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
 
+#### Labs
+
+Labs are mini-projects that will give you an opportunity to put your learnings to practice by building an application! Begin labs only once you've completed all assignments for the week. These should be completed in order.
+
+1. [Project Planning - CLI App](https://github.com/The-Marcy-Lab-School/1-0-3-lab_project_planning_cli_app)
+2. [Building a CLI CRUD App With JSON](https://github.com/The-Marcy-Lab-School/1-1-3-lab_json-cli)
+
 #### Week 1
 
 - **10/10/23 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/10Op4ZnmbUbm1Zv48vcIR5h2vkr9wpZULwAg6NYbzd9w/) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
