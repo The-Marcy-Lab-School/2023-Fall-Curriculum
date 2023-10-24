@@ -104,7 +104,7 @@ Get the first matching element in an Array, or `null`
 
 ```js
 const myNums = [2, 4, 7, 5];
-const firstOddValue = myNums.find((num) => num % 2);
+const firstOddValue = myNums.find((num) => num % 2 === 0);
 console.log('firstOddValue', firstOddValue);
 // firstOddValue 7
 ```
