@@ -148,10 +148,10 @@ console.log('greaterThan100', greaterThan100);
 ### .reduce(accumulatorCallback, startingValue)
 
 "reduce" array values into a single value.
- 
- * Callback should accept: an accumulator and the current value
- * Callback should return: the next value of the accumulator (the eventual return value)
- * .reduce() returns the final accumulated value
+
+| Callback Should Accept               | Callback Should Return                                        | .filter returns             |
+|--------------------------------------|---------------------------------------------------------------|-----------------------------|
+| An accumulator and the current value | the next value of the accumulator (the eventual return value) | the final accumulated value |
 
 ```js
 const lunchCosts = [5, 10, 7, 9, 15, 8, 12];
