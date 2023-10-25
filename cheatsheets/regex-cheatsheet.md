@@ -69,7 +69,7 @@ Here are some snippets to get started!
 | \W              | Any NON alphanumeric          |
 | \s              | Any whitespace character      |
 | \S              | Any NON whitespace character  |
-| \b              | Any work break                |
+| \b              | Any word break                |
 | \B              | Any NON word break            |
 | .               | Any character at all          |
 | \\.              | An escaped period             |
