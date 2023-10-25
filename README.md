@@ -1,22 +1,13 @@
+<!-- no toc -->
+
 # Curriculum Resources
 
 **[> Skip to current unit <](#mod-1---core-javascript)**
 
 ### Table of Contents
-
-- [Curriculum Resources](#curriculum-resources)
-    - [Table of Contents](#table-of-contents)
-  - [Orientation](#orientation)
-  - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
-      - [Resources](#resources)
-      - [Week 1](#week-1)
-  - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
-      - [Resources](#resources-1)
-      - [Labs](#labs)
-      - [Week 1](#week-1-1)
-      - [Week 2](#week-2)
-      - [Week 3](#week-3)
-      - [Week 4](#week-4)
+- [Orientation](#orientation)
+- [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
+- [Mod 1 - Core JavaScript](#mod-1---core-javascript)
 
 ---
 
@@ -88,7 +79,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **10/23/23 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1ZoC1XUm9GJns3XqAYZGOIXt_LpUn9-VbQmdEZt_pf7M) | [Code](./mod-1/1-2-0-hofs-callbacks/lecture/index.js) | [Key Terms](./mod-1/1-2-0-hofs-callbacks/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/KMw7QqbOe3A)
 - **10/23/23 - Lab Review (Sorting)** | [Code](./mod-1/1-2-0-lab-review.js) | [Lab Review Recording](https://youtu.be/o5aF9eBKjx4)
 - **10/24/23 - Array Higher Order Methods** | [Slides](https://docs.google.com/presentation/d/14E-5lhZHbfxfuCIzrPnuYNrcH84_c7UKS-D8avZ8xCg) | [Code](./mod-1/1-2-1-array-hof-methods/lecture/index.js) | [Key Terms](./mod-1/1-2-1-array-hof-methods/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/K6d2WJJdqCc)
-- **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | Code | Lecture Recording
+- **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | [Cheatsheet](./cheatsheets/regex-cheatsheet.md) | [Lecture Recording](https://youtu.be/UlbuA5AZjk0)
 - **10/26/23 - Code Style** | [Slides](https://docs.google.com/presentation/d/1ZCYZoW4S2d89FWqYoRCbL8BB45lcEUckTJgy6QQZiIQ) | Code | Lecture Recording
 
 #### Week 4
