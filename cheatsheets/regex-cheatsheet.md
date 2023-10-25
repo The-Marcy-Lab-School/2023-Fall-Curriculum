@@ -14,7 +14,7 @@ catRegex.test("the Cat in the hat"); // false because of case sensitivity
 Flags go after the second forward slash and alter the behavior of the regular expression
 
 ```js
-const allCats = /cat/gi // match all cats regardless of case, not just the first one
+const allCats = /cat/gi // match all "cat"s regardless of case, not just the first one
 "my cat is named Catherine".match(allCats); // ['cat', 'Cat']
 ```
 
