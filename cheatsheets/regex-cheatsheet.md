@@ -5,7 +5,7 @@
 A regular expression is written as a collection of characters/symbols surrounded by a pair of forward slashes:
 
 ```js
-const catRegex = /cat/
+const catRegex = /cat/               // matches the characters "cat"
 catRegex.test("the cat in the hat"); // true
 catRegex.test("the dog in the hat"); // false because no "cat"
 catRegex.test("the Cat in the hat"); // false because of case sensitivity
