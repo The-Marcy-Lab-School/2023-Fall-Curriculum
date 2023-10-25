@@ -80,6 +80,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **10/23/23 - Lab Review (Sorting)** | [Code](./mod-1/1-2-0-lab-review.js) | [Lab Review Recording](https://youtu.be/o5aF9eBKjx4)
 - **10/24/23 - Array Higher Order Methods** | [Slides](https://docs.google.com/presentation/d/14E-5lhZHbfxfuCIzrPnuYNrcH84_c7UKS-D8avZ8xCg) | [Code](./mod-1/1-2-1-array-hof-methods/lecture/index.js) | [Key Terms](./mod-1/1-2-1-array-hof-methods/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/K6d2WJJdqCc)
 - **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | [Cheatsheet](./cheatsheets/regex-cheatsheet.md) | [Lecture Recording](https://youtu.be/UlbuA5AZjk0)
+- **10/25/23 - Lab Review (Array HOFs)** | [Code](./mod-1/1-2-1-higher-order-function-lab-review) | Recording
 - **10/26/23 - Code Style** | [Slides](https://docs.google.com/presentation/d/1ZCYZoW4S2d89FWqYoRCbL8BB45lcEUckTJgy6QQZiIQ) | Code | Lecture Recording
 
 #### Week 4

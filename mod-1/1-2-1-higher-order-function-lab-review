@@ -1,13 +1,38 @@
+////////////////////////////////////
+// The big picture about HOFs
+////////////////////////////////////
+
+/* 
+- forEach, filter, map, etc... are invoked ON the array
+- each take in a callback
+- the first parameter of the callback should be named a singular version of the array name
+- each Higher Order Method invokes the callback...
+- ...but does something different with the callback
+- 
+*/
+
+const letters = ['a', 'b', 'c'];
+const names = ['wendy', 'jon', 'daniel'];
 const nums = [1, 3, 5, 7, 9];
 
+// Generic Callback (callback doesn't return)
 nums.forEach((num) => console.log(num));
 nums.forEach((num, i, arr) => console.log(num, i, arr));
 nums.forEach(console.log);
 
+// Modify Callback (callback returns a new version of the value)
 const doubled = nums.map((num) => num * 2);
-const lessThanSeven = nums.filter((num) => num < 7);
-const seven = nums.find((num) => num === 7);
-const indexOfSeven = nums.findIndex((num) => num === 7);
+const capsLetters = letters.map((letter) => letter.toUpperCase());
+const firstLetter = names.map((name) => name[0]);
+
+// Test Callback (callback tests the value, returns true/false)
+const lessThanSeven = nums.filter((num) => num < 7); // get All values that pass the test
+const seven = nums.find((num) => num < 7); // get the first value that passes the test
+const indexOfSeven = nums.findIndex((num) => num === 7); // get the index of the first value that passes the test
+const areAllOdd = nums.every((num) => num % 2 === 1); // do all the values pass the test?
+const hasSomeMultiplesOfThree = nums.some((num) => num % 3 === 0); // does at least one value pass the test?
+
+// Accumulator Callback (callback returns the next value of the accumulator)
 const sumOfNums = nums.reduce((total, num) => total + num, 0);
 
 console.log('doubled: ', doubled);
@@ -15,35 +40,76 @@ console.log('lessThanSeven: ', lessThanSeven);
 console.log('seven: ', seven);
 console.log('indexOfSeven: ', indexOfSeven);
 console.log('sumOfNums: ', sumOfNums);
-
-// const myForEach = (arr, callback) => {
-//   for (let i = 0; i < arr.length; i++) {
-//     callback(arr[i]);
-//   }
-// }
-// myForEach(nums, (num) => console.log(`the number is ${num}`))
+console.log('areAllOdd: ', areAllOdd);
+console.log('hasSomeMultiplesOfThree: ', hasSomeMultiplesOfThree);
 
 
-// const filterVipUsers = (users, vipUserIdsSet) => {
-//   const vipUserObjects = [];
+////////////////////////////////////
+// Writing HOFs from scratch
+////////////////////////////////////
 
-//   for (let i = 0; i < users.length; i++) {
-//     const user = users[i];
-//     if (vipUserIdsSet.has(user.id)) {
-//       vipUserObjects.push(user);
-//     }
-//   }
+const myForEach = (arr, callback) => {
+  // callback = console.log
+  for (let i = 0; i < arr.length; i++) {
+    callback(arr[i], i, arr);
+  }
+}
+const myFilter = (arr, testCallback) => {
+  const filtered = [];
+  for (let i = 0; i < arr.length; i++) {
+    if (testCallback(arr[i])) {
+      filtered.push(arr[i]);
+    }
+  }
+  return filtered;
+}
+const myMap = (arr, modify) => {
+  const mapped = [];
+  for (let i = 0; i < arr.length; i++) {
+    const modifiedValue = modify(arr[i])
+    mapped.push(modifiedValue);
+  }
+  return mapped;
+}
 
-//   return vipUserObjects;
-// };
 
-// const multiplicativeAverage = (nums) => {
-//   let product = 1;
 
-//   for (let i = 0; i < nums.length; i++) {
-//     const num = nums[i];
-//     product *= num;
-//   }
+////////////////////////////////////
+// Refactoring loops into HOFs
+////////////////////////////////////
 
-//   return product / nums.length;
-// };
+const filterVipUsers = (users, vipUserIdsSet) => {
+  const test = (user) => vipUserIdsSet.includes(user.id)
+  const vipUserObjects = users.filter(test);
+  return vipUserObjects;
+
+  // const vipUserObjects = [];
+  // for (let i = 0; i < users.length; i++) {
+  //   const user = users[i];
+  //   if (vipUserIdsSet.includes(user.id)) {
+  //     vipUserObjects.push(user);
+  //   }
+  // }
+};
+
+const vipUserIdsSet = [23, 35, 50];
+const users = [
+  { name: 'ben', id: 23 },
+  { name: 'daniel', id: 26 },
+  { name: 'william', id: 35 },
+  { name: 'michael', id: 50 },
+  { name: 'jon', id: 80 },
+];
+const vips = filterVipUsers(users, vipUserIdsSet); // [{ben}, {william}, {michael}]
+console.log(vips);
+
+const multiplicativeAverage = (nums) => {
+  let product = 1;
+
+  for (let i = 0; i < nums.length; i++) {
+    const num = nums[i];
+    product *= num;
+  }
+
+  return product / nums.length;
+};
