@@ -52,6 +52,7 @@
 - [Eloquent JavaScript (Online Textbook)](https://eloquentjavascript.net/)
 - [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
+- [Mod 1 - All Skills List](https://github.com/The-Marcy-Lab-School/1-3-0-resource_mod-1-all-skills)
 
 #### Labs
 
