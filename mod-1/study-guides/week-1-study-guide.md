@@ -1,3 +1,12 @@
+# Mod 1 - Week 1 Study Guide 
+
+**Table of Contents**
+* [1-0-0 Node](#1-0-0-node)
+* [1-0-1 Variables, Functions, and Strings](#1-0-1-vars-functions-strings)
+* [1-0-2 Control Flow](#1-0-2-control-flow)
+
+## 1-0-0 Node
+
 ### What is Node?
 
 * Two places to run JavaScript: **Node** and the **Browser**
@@ -82,7 +91,7 @@ const mathUtils = require('./math-utilities');
   * `npm start`
   * `npm test`
 
-## Jest & Testing
+### Jest & Testing
 
 * **Jest** is a testing framework for JavaScript. 
 * All testing files end in `.spec.js`. 
@@ -113,7 +122,6 @@ it('returns the sum of two input numbers', () => {
 * A failing test will show the `expect()` statement that failed as well as a comparison of what it "expected" vs. what it "received":
 
 <image src='./img/tests-failing.png' style="border: 1px solid black;">
-
 
 ## 1-0-1 Vars, Functions, Strings
 
@@ -349,6 +357,8 @@ const capitalize = (str) => {
 </details>
 
 ## 1-0-2 Control Flow
+
+### Conditional Statements
 
 * A **conditional statement** is a block of code that will or will not run depending on the outcome of a **Boolean expression** (an expression that resolves to `true` or `false`)
 * Boolean Expressions can be created using **comparison operators**: `< <= > >= === !==`
