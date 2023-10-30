@@ -46,12 +46,49 @@ console.log(mathUtils.add(5, 3)) // 8
 
 * Often, we will destructure a module's exports immediately. This is called a "named export/import".
 
+**Q: What are the benefits or putting our code into modules?**
+
+<details><summary>Answer</summary>
+
+"Modularizing" our code enables us separate the concerns of our application for better organization and maintainability. It also allows us to easily re-use exported logic, minimizing repetitive code. 
+
+</details>
+
 ### Node Package Manager
 
 * A **package** is a group of one or more modules published on the internet for use by other developers.
 * **Node Package Manager** makes it easy to install and manage third-party packages.
-* Packages published on NPM all have a `package.json` file that lists the package's **dependencies** and meta data.
-* A **dependency** is a package relied upon by another package.
+* Packages published on NPM all have a `package.json` file that lists the package's **dependencies**, scripts, and metadata.
+
+```json
+{
+  "name": "1.0.0-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "cp hooks/pre-commit .git/hooks/pre-commit",
+    "play": "node playground.js",
+    "start": "node index.js",
+    "lint": "eslint .",
+    "test": "jest --coverage",
+    "test:w": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.3",
+    "score-tests": "^1.0.0"
+  }
+}
+```
+
+* A **dependency** is a package relied upon by another package. They can be installed using the `npm i` command
 
 ```sh
 npm init          # creates a package.json file
@@ -70,6 +107,16 @@ const prompt = require('prompt');
 const mathUtils = require('./math-utilities');
 ```
 
+* When just the name is given, `require()` knows to look for NPM modules instead of local modules.
+
+**Q: When installing a package via `npm`, where does it go?**
+
+<details><summary>Answer</summary>
+
+Into a folder called `node_modules/` in your project's root directory (or wherever the `package.json` file is).
+
+</details>
+
 ### Scripts
 
 * **NPM Scripts** are defined in a package's `package.json` file and help you quickly execute a terminal command
@@ -86,10 +133,18 @@ const mathUtils = require('./math-utilities');
 ```
 
 * To run a script, enter `npm run <script name>`
-  * Example: `npm run lint` or `npm run play`
+  * Example: `npm run play`
 * Some designated scripts can omit the "run" argument, such as:
   * `npm start`
   * `npm test`
+
+**Q: The `"lint"` script is not a designated script name. How would you run it? What command is executed by that script? **
+
+<details><summary>Answer</summary>
+
+`npm run lint` which executes the command `eslint .` 
+
+</details>
 
 ### Jest & Testing
 
@@ -122,6 +177,14 @@ it('returns the sum of two input numbers', () => {
 * A failing test will show the `expect()` statement that failed as well as a comparison of what it "expected" vs. what it "received":
 
 <image src='./img/tests-failing.png' style="border: 1px solid black;">
+
+**Q: In the failing test above, what mistake did the programmer make?**
+
+<details><summary>Answer</summary>
+
+It seems as though the programmer forgot to put a comma `,` after the provided name as well as a question mark `?` at the end of the string.
+
+</details>
 
 ## 1-0-1 Vars, Functions, Strings
 
