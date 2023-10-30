@@ -73,20 +73,20 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **10/16/23 - Loops** | [Slides](https://docs.google.com/presentation/d/1enxsqCt0OykPNWNBW1zsGY6MMruJVogAAuwhB75ZsuQ/) | [Key Terms](./mod-1/1-1-0-loops/key-terms.md) | [Code](./mod-1/1-1-0-loops/) | [Lecture Recording](https://youtu.be/RJn3sCaiIr0)
 - **10/17/23 - Arrays** | [Slides](https://docs.google.com/presentation/d/1jbe807oy9VTKov1ADxN1NteO7lxq1nscqkWApNSdkkc) | [Key Terms](./mod-1/1-1-1-arrays/key-terms.md) | [Code](./mod-1/1-1-1-arrays/) | [Lecture Recording](https://youtu.be/2XiMtYLntTw)
 - **10/18/23 - Objects** | [Slides](https://docs.google.com/presentation/d/1uB1uPTGdaKhwvPD11kYyaiuh9I0j3zow6ZsW2UXDvvI) | [Key Terms](./mod-1/1-1-2-objects/key-terms.md) | [Code](./mod-1/1-1-2-objects/) | [Destructuring Objects Function Code](./mod-1/1-1-2-objects/destructuring-function-example.js) | Lecture Recording
-- **10/19/23 - Review** | [Code](./mod-1/1-1-3-array-object-review.js) | [Lecture Recording](https://youtu.be/PWKpu2c2J7o)
+- **10/19/23 - Review** | [Code](./mod-1/lab-reviews/1-1-3-array-object-review.js) | [Lecture Recording](https://youtu.be/PWKpu2c2J7o)
 
 #### Week 3
 
 - **10/23/23 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1ZoC1XUm9GJns3XqAYZGOIXt_LpUn9-VbQmdEZt_pf7M) | [Code](./mod-1/1-2-0-hofs-callbacks/lecture/index.js) | [Key Terms](./mod-1/1-2-0-hofs-callbacks/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/KMw7QqbOe3A)
-- **10/23/23 - Lab Review (Sorting)** | [Code](./mod-1/1-2-0-lab-review.js) | [Lab Review Recording](https://youtu.be/o5aF9eBKjx4)
+- **10/23/23 - Lab Review (Sorting)** | [Code](./mod-1/lab-reviews/1-2-0-lab-review.js) | [Lab Review Recording](https://youtu.be/o5aF9eBKjx4)
 - **10/24/23 - Array Higher Order Methods** | [Slides](https://docs.google.com/presentation/d/14E-5lhZHbfxfuCIzrPnuYNrcH84_c7UKS-D8avZ8xCg) | [Code](./mod-1/1-2-1-array-hof-methods/lecture/index.js) | [Key Terms](./mod-1/1-2-1-array-hof-methods/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/K6d2WJJdqCc)
 - **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | [Cheatsheet](./cheatsheets/regex-cheatsheet.md) | [Lecture Recording](https://youtu.be/UlbuA5AZjk0)
-- **10/25/23 - Lab Review (Array HOFs)** | [Code](./mod-1/1-2-1-higher-order-function-lab-review) | Recording
+- **10/25/23 - Lab Review (Array HOFs)** | [Code](./mod-1/lab-reviews/1-2-1-higher-order-function-lab-review) | Recording
 - **10/26/23 - Code Style** | [Slides](https://docs.google.com/presentation/d/1ZCYZoW4S2d89FWqYoRCbL8BB45lcEUckTJgy6QQZiIQ) | [Code](./mod-1/1-2-3-readable-style/) | [Lecture Recording](https://youtu.be/p-S3kpxcRsc)
 
 #### Week 4
 
-- **10/30/23 - Review** | [Week 1 Study Guide](./mod-1/study-guides/week-1-study-guide.md)
+- **10/30/23 - Review** | [Week 1 Study Guide](./mod-1/study-guides/week-1-study-guide.md) | [Code](./mod-1/1-3-0-week-1-review/) | [Recording](https://youtu.be/ZCedVg3X6lA)
 - **10/31/23 - Review**
 - **11/1/23 - Review**
 - **11/2/23 - Mod 1 Assessment**
