@@ -86,7 +86,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 4
 
-- **10/30/23 - Review**
+- **10/30/23 - Review** | [Week 1 Study Guide](./mod-1/study-guides/week-1-study-guide.md)
 - **10/31/23 - Review**
 - **11/1/23 - Review**
 - **11/2/23 - Mod 1 Assessment**
