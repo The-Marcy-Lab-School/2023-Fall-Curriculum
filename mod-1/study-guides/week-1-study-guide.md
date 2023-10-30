@@ -138,7 +138,7 @@ Into a folder called `node_modules/` in your project's root directory (or wherev
   * `npm start`
   * `npm test`
 
-**Q: The `"lint"` script is not a designated script name. How would you run it? What command is executed by that script? **
+**Q: The `"lint"` script is not a designated script name. How would you run it? What command is executed by that script?**
 
 <details><summary>Answer</summary>
 
