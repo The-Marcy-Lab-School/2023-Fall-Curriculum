@@ -456,6 +456,75 @@ greet('ben');             // Hi ben.
   * `null`
 * All other values are truthy.
 
+**Q: Write the classic `fizzBuzz` function! It should accept a number and log to the console `"fizz"` if the number is divisible by `3`, `"buzz"` if divisible by `5`, and `"fizzbuzz"` if divisible by both. If not divisible by any of these, print the input number itself. Do not return anything.**
+
+<details><summary>Answer</summary>
+
+```js
+const fizzBuzz = (num) => {
+  if (num % 3 === 0 && num % 5 === 0) {
+    console.log("fizzbuzz");
+  } else if (num % 3 === 0) {
+    console.log("fizz");
+  } else if (num % 5 === 0) {
+    console.log("buzz");
+  } else {
+    console.log(num);
+  }
+}
+```
+
+We can also take advantage of the "falsey-ness" of the number `0` to rewrite the conditions in this function:
+
+```js
+const fizzBuzz = (num) => {
+  if (!(num % 3) && !(num % 5)) {
+    console.log("fizzbuzz");
+  } else if (!(num % 3)) {
+    console.log("fizz");
+  } else if (!(num % 5)) {
+    console.log("buzz");
+  } else {
+    console.log(num);
+  }
+}
+```
+
+If the remainder is `0`, then we flip its truthyness using `!`.
+
+</details>
+
+
+### Guard Clauses
+
+* A **guard clause** is an `if` statement used at the start of a function that returns immediately. 
+* Guard clauses are used to "fail fast" — if the current state (data) does not allow the rest of the function to operate properly, we exit early.
+* Consider this example:
+
+```js
+const add = (a, b) => {
+  if (typeof a !== 'number' || typeof b !== 'number') { // guard clause
+    return NaN;
+  } else { // do we need this else statement?
+    return a + b;
+  }
+}
+```
+
+* In this example, we want to avoid adding non-number values. Strings, for example, will concatenate with the `+` operator, which we'd like to avoid.
+* We can **refactor** (rewrite) this function without the `else` statement:
+
+```js
+const add = (a, b) => {
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    return NaN;
+  }
+  return a + b;
+}
+```
+
+* If the guard clause's `return` statement is executed, the function will exit. Therefore, we are not at risk of accidentally executing `return a + b`. 
+
 **Q: Write a function called `getType` that takes in a value and returns the type of that value as a string, including the types `"NaN"`, `"Array"`, and  `"null"`**
 
 <details><summary>Answer</summary>
