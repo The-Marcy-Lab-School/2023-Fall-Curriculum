@@ -2,8 +2,21 @@
 
 **Table of Contents**
 * [1-0-0 Node](#1-0-0-node)
+  * [What is Node?](#what-is-node)
+  * [Modules](#modules)
+  * [Node Package Manager](#node-package-manager)
+  * [Scripts](#scripts)
+  * [Jest & Testing](#jest--testing)
 * [1-0-1 Variables, Functions, and Strings](#1-0-1-vars-functions-strings)
+  * [Variables](#variables)
+  * [Data Types](#data-types)
+  * [Functions (Arrow Functions)](#functions-arrow-functions)
+  * [Function Declarations](#function-declarations)
+  * [Scope](#scope)
+  * [String Properties and Methods](#string-properties-and-methods)
 * [1-0-2 Control Flow](#1-0-2-control-flow)
+  * [Conditional Statements](#conditional-statements)
+  * [Guard Clauses](#guard-clauses)
 
 ## 1-0-0 Node
 
