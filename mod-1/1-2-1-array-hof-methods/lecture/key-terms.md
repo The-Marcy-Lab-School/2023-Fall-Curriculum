@@ -149,7 +149,7 @@ console.log('greaterThan100', greaterThan100);
 
 "reduce" array values into a single value.
 
-| Callback Should Accept               | Callback Should Return                                        | .filter returns             |
+| Callback Should Accept               | Callback Should Return                                        | .reduce returns             |
 |--------------------------------------|---------------------------------------------------------------|-----------------------------|
 | An accumulator and the current value | the next value of the accumulator (the eventual return value) | the final accumulated value |
 
