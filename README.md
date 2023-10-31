@@ -86,8 +86,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 4
 
-- **10/30/23 - Review** | [Week 1 Study Guide](./mod-1/study-guides/week-1-study-guide.md) | [Code](./mod-1/1-3-0-week-1-review/) | [Recording](https://youtu.be/ZCedVg3X6lA) | [CLI App Lab Review Recording](https://youtu.be/bhc2EDU19iU)
-- **10/31/23 - Review** | [Week 2 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-1-resource_week-2-study-guide/blob/main/README.md)
+- **10/30/23 - Review** | [Week 1 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-0-resource_week-1-study-guide) | [Code](./mod-1/1-3-0-week-1-review/) | [Recording](https://youtu.be/ZCedVg3X6lA) | [CLI App Lab Review Recording](https://youtu.be/bhc2EDU19iU)
+- **10/31/23 - Review** | [Week 2 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-1-resource_week-2-study-guide/)
 - **11/1/23 - Review**
 - **11/2/23 - Mod 1 Assessment**
 
