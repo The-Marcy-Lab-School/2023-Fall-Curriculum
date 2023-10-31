@@ -78,8 +78,8 @@ const userBen = {
   name: "Ben",
   age: 28,
 };
-const introduceSelf = ({ name, age }) => {
-  console.log(`Hello, ${name}! I am ${age} years old.`);
+const introduceSelf = (person) => {
+  console.log(`Hello! My name is ${person.name} and I am ${person.age} years old.`);
 };
 
 introduceSelf(userBen);
