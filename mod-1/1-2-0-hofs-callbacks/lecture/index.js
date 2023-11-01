@@ -48,7 +48,8 @@ const greet = (person, msg, volumeLevel) => {
 /* These are "Callback" Functions */
 const yell = (msg) => msg.toUpperCase() + '!!!'
 const whisper = (msg) => `...${msg.toLowerCase()}...`
-const ask = (msg) => `${msg}?`
+const ask = (msg) => `${msg}?`;
+
 
 /* This is a "higher order function" (HOF) */
 const greetBetter = (person, msg, voiceCallback) => {
@@ -56,9 +57,9 @@ const greetBetter = (person, msg, voiceCallback) => {
   const result = `${person} said, "${formattedMsg}"`
   console.log(result);
 }
-// greetBetter('Ben', 'Hello World', yell);
-// greetBetter('Ben', 'Hello World', whisper);
-// greetBetter('Ben', 'Hello World', ask);
+greetBetter('Ben', 'Hello World', yell);
+greetBetter('Zo', 'Hello World', whisper);
+greetBetter('Motun', 'Hello World', ask);
 
 /* we can use "inline arrow functions" */
 // greetBetter('Ben', 'Hello World', (msg) => `${msg}$*(#@?!)`)
