@@ -1,17 +1,17 @@
 # HTML - Key Terms
 
-**Skills we're teaching**
-- (CORE) What is HTML
-- (CORE) hosting vs opening a file
-- (CORE) Creating an index.html
-- (CORE) child vs sibling tags
-- (CORE) what is a tag, opening, closing, self closing
-- (CORE) `h, p, ul, ol, li, img, a, div, span`
-- (CORE) nested, child, parent, sibling tags
-- (CORE) attributes: id, classes, href, alt
-- (CORE) head, title, body
-- (CORE) non semantic tags `div` and `span`
-- (CORE) semantic vs non-semantic
+* [First, an Experiment](#first-an-experiment)
+* [The Browser is an HTML Viewer](#the-browser-is-an-html-viewer)
+* [Live Server](#live-server)
+* [What is HTML?](#what-is-html)
+* [HTML Elements](#html-elements)
+* [Nesting Elements](#nesting-elements)
+* [Self Closing Tags](#self-closing-tags)
+* [Opening Tag Attributes & Images](#opening-tag-attributes--images)
+* [Ids and Classes](#ids-and-classes)
+* [Links](#links)
+* [Properly formatted document](#properly-formatted-document)
+* [Semantic vs Non Semantic Elements](#semantic-vs-non-semantic-elements)
 
 ## First, an Experiment
 
@@ -102,7 +102,7 @@ There are tons of examples! But here are a few
 
 </details>
 
-### HTML Elements
+## HTML Elements
 
 * **HTML elements** are created using an **opening tag** and a **closing tag**.
 
