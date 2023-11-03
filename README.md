@@ -2,13 +2,24 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-1---core-javascript)**
+**[> Skip to current unit <](#mod-2---core-html-css-and-dom-manipulation)**
 
 ### Table of Contents
 - [Orientation](#orientation)
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
-- [Mod 1 - Core JavaScript](#mod-1---core-javascript)
-
+- [Mod 1 - Core: JavaScript](#mod-1---core-javascript)
+- [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---html-css-and-dom-manipulation)
+- [Mod 3 - Core: Asynchronous JS](#mod-3---core-asynchronous-javascript)
+- [Mod 4 - Core: Project Week](#mod-4---core-project-week)
+- [Mod 5 - Data Structures & Algorithms](#mod-5---data-structures--algorithms)
+- [Mod 6 - Backend: Object Oriented Programming](#mod-6---backend-object-oriented-programming)
+- [Mod 7 - Backend: SQL](#mod-7---backend-sql)
+- [Mod 8 - Backend: Express](#mod-8---backend-express)
+- [Mod 9 - Backend: Project Week](#mod-9---backend-project-week)
+- [Mod 10 - Advanced: React](#mod-10---advanced-react)
+- [Mod 11 - Advanced: Project Week](#mod-11---advanced-project-week)
+- [Civic Tech Hackathon](#civic-tech-hackathon)
+- [Capstone](#capstone)
 ---
 
 ## Orientation
@@ -92,3 +103,66 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **11/2/23 - Mod 1 Assessment**
 
 ---
+
+## Mod 2 - Core: HTML, CSS, and DOM Manipulation
+
+#### Resources
+
+#### Week 1
+* **11/6/23 - Intro to HTML | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | Recording
+* **11/7/23 - Intro to CSS | Key Terms | Code | Recording
+* **11/8/23 - CSS Positioning | Key Terms | Code | Recording
+* **11/9/23 - Accessibility & HTML Best Practices | Key Terms | Code | Recording
+
+#### Week 2
+
+#### Week 3
+
+#### Week 4
+
+---
+
+
+## Mod 3 - Core: Asynchronous JavaScript
+
+---
+
+## Mod 4 - Core: Project Week
+
+--- 
+
+## Mod 5 - Data Structures & Algorithms
+
+--- 
+
+## Mod 6 - Backend: Object Oriented Programming
+
+--- 
+
+## Mod 7 - Backend: SQL
+
+--- 
+
+## Mod 8 - Backend: Express
+
+--- 
+
+## Mod 9 - Backend: Project Week
+
+--- 
+
+## Mod 10 - Advanced: React
+
+--- 
+
+## Mod 11 - Advanced: Project Week
+
+---
+
+## Civic Tech Hackathon
+
+--
+
+## Capstone
+
+
