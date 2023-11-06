@@ -1,0 +1,4 @@
+a { color: black; }
+a:visited { color: purple } /* a link once a user has visited the page */
+a:hover { color: red } /* a link when the mouse hovers over it */
+a:active { color: blue; } /* a link the moment it is clicked */

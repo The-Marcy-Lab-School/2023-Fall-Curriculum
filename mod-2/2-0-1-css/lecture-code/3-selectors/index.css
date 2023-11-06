@@ -1,0 +1,19 @@
+p { 
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+/* Select all elements with class="blue" */
+.blue {
+  color: blue;
+}
+
+/* Select all p elements with class="blue" */
+p.blue {
+  font-style: italic;
+}
+
+/* Select the element with id="special" */
+#special {
+  background: yellow;
+}
