@@ -25,9 +25,9 @@ Hello World
 <h1>Hello World</h1>
 ```
 
-* Open your browser
-* Press the "file open" keyboard-shortcut <kbd>Command+o</kbd> (Mac) / <kbd>Control+o</kbd> (Windows) 
-* Find and select your `index.html` file. Then do the same for your `index.txt` file. 
+* Right click on the `index.html` file and select <kbd>Reveal in Finder/Explorer</kbd>
+* Open Chrome. Then drag and drop the `index.html` into the tab bar (there should be a + icon)
+* Then do the same for your `index.txt` file. 
 
 > On WSL, your files will be located under _Linux_ in the File Explorer
 >
