@@ -12,6 +12,7 @@
 * [Links](#links)
 * [Properly formatted document](#properly-formatted-document)
 * [Semantic vs Non Semantic Elements](#semantic-vs-non-semantic-elements)
+* [Quiz](#quiz)
 
 ## First, an Experiment
 
@@ -33,8 +34,6 @@ Hello World
 >
 > ![Alt text](./img/file-explorer-linux.png)
 
-**Q: What is different about how the browser shows the `.txt` and `.html` files?**
-
 ## The Browser is an HTML Viewer
 
 * **Your browser is essentially built to render text and images.** 
@@ -43,19 +42,6 @@ Hello World
 * The first HTML file you should create for a new website should always be `index.html`
   * `index.html` is a magic name that servers will automatically look for if a user enters a domain without a file extension: `test.com` is the same as `test.com/index.html`. 
 * `index.html` is commonly known as the **entry point**
-
-**Q: Browsers are specialized "viewer" applications for `.html` files. What are other examples of applications that are made to view specific kinds of files?**
-
-<details><summary>Answer</summary>
-
-There are tons of examples! But here are a few
-
-* Photoshop is used to display image files like `.jpg`, `svg`, etc...
-* Adobe and Preview are made to view `.pdf` files
-* iTunes is made to play `.mp3` files.
-* Microsoft Word is made to view and edit `.doc` files
-
-</details>
 
 ## Live Server
 
@@ -92,16 +78,6 @@ There are tons of examples! But here are a few
 * `h1`, `p`, `ul` and `li` are called **HTML tags**
 * HTML tags determines _how_ the content inside them is displayed.
 
-**Q: How do you think these different tags affect what is displayed?**
-
-<details><summary>Answer</summary>
-
-* The `h1` says to make a header. 
-* The `p` says to make a normal paragraph. 
-* The `ul` says to make an unordered list with three list items (`li`) in it.
-
-</details>
-
 ## HTML Elements
 
 * **HTML elements** are created using an **opening tag** and a **closing tag**.
@@ -119,21 +95,7 @@ There are tons of examples! But here are a few
 * **Headers** are created using `h1`, `h2`, `h3`, `h4`, `h5`, or `h6`. There should only be one `h1` per page and they should flow in descending order.
 * **Paragraphs** are created using `p` and are for most normal text.
 
-**Q: What is wrong with the HTML below?**
 
-```html
-<h1>
-Hello World!
-</h3>
-```
-
-<details><summary>Answer</summary>
-
-The closing tag does not match the opening tag! The closing tag should be `</h1>`.
-
-Also, stylistically, we should indent the content of the element if we are putting each part of the tag on separate lines.
-
-</details>
 
 ## Nesting Elements
 
@@ -169,25 +131,6 @@ Also, stylistically, we should indent the content of the element if we are putti
 
 * **Child tags** are those that are nested in a **parent tag**. 
 * Tags that are in the same nesting level next to each other are **sibling tags**.
-
-**Q: When should you use `<ol>` and when should you use `<ul>`?**
-
-<details><summary>Answer</summary>
-
-Use `<ol>` when order matters, and `ul` when it doesn't.
-
-</details><br>
-
-**Q: In the example above, which elements are parents, which elements are children, and which elements are siblings?**
-
-<details><summary>Answer</summary>
-
-* Both of the `h2` tags, the `ol` tag and the `ul` tag are sibling tags
-* The `ol` and the `ul` are both parent tags to their `li` tags
-* The `li` tags are all children tags of the `ol` or `ul` tags
-* The `li` tags are sibling tags within their own lists.
-
-</details>
 
 ## Self Closing Tags
 * Some HTML elements have **self-closing tags** like image elements (`<img />`), line-break elements (`<br />`), and horizontal-rule elements (`<hr />`).
@@ -238,20 +181,6 @@ Use `<ol>` when order matters, and `ul` when it doesn't.
 </figure>
 ```
 
-**Q: What is wrong with this HTML element?**
-
-```html
-<img>cat-pizza.png</img>
-```
-
-<details><summary>Answer</summary>
-
-The source of the image should be in the opening `<img>` tag as a `src` attribute.
-
-There should also be an `alt` attribute describing the picture.
-
-</details>
-
 ## Ids and Classes
 
 * `id`s mark a tag as a *single*, unique, important item on your page. 
@@ -280,16 +209,6 @@ There should also be an `alt` attribute describing the picture.
 
 * `id` = one name per page, one per tag
 * `class` = multiple per page, multiple space separated names per tag
-
-**Q: How would you create a `<p>` element with the id `"caption-1"` and the classes `"italic"` and `"centered"`?**
-
-<details><summary>Answer</summary>
-
-<p id="caption-1" class="italic centered">
-  some text
-</p>
-
-</details>
 
 ## Links
 
@@ -321,17 +240,7 @@ There should also be an `alt` attribute describing the picture.
 
 * Link text should *always* be descriptive of where you're going, never just put "click here."
 
-**Q: What page does this anchor tag take us to?**
 
-```html
-<a href="./">Go Home</a>
-```
-
-<details><summary>Answer</summary>
-
-The `index.html` page! 
-
-</details>
 
 ## Properly formatted document
 
@@ -408,6 +317,110 @@ The `index.html` page!
 </div>
 <!-- NO AWFUL. NEVER. -->
 ```
+
+## Quiz
+
+**Q: What is different about how the browser shows the `.txt` and `.html` files?**
+
+<details><summary>Answer</summary>
+
+A browser can show the raw contents of any file, such as a `.txt` file but it can render a `.html` file with more style!
+
+</details><br>
+
+**Q: Browsers are specialized "viewer" applications for `.html` files. What are other examples of applications that are made to view specific kinds of files?**
+
+<details><summary>Answer</summary>
+
+There are tons of examples! But here are a few
+
+* Photoshop is used to display image files like `.jpg`, `svg`, etc...
+* Adobe and Preview are made to view `.pdf` files
+* iTunes is made to play `.mp3` files.
+* Microsoft Word is made to view and edit `.doc` files
+
+</details><br>
+
+**Q: How do you think these different tags affect what is displayed?**
+
+<details><summary>Answer</summary>
+
+* The `h1` says to make a header. 
+* The `p` says to make a normal paragraph. 
+* The `ul` says to make an unordered list with three list items (`li`) in it.
+
+</details><br>
+
+**Q: What is wrong with the HTML below?**
+
+```html
+<h1>
+Hello World!
+</h3>
+```
+
+<details><summary>Answer</summary>
+
+The closing tag does not match the opening tag! The closing tag should be `</h1>`.
+
+Also, stylistically, we should indent the content of the element if we are putting each part of the tag on separate lines.
+
+</details><br>
+
+**Q: When should you use `<ol>` and when should you use `<ul>`?**
+
+<details><summary>Answer</summary>
+
+Use `<ol>` when order matters, and `ul` when it doesn't.
+
+</details><br>
+
+**Q: In the example above, which elements are parents, which elements are children, and which elements are siblings?**
+
+<details><summary>Answer</summary>
+
+* Both of the `h2` tags, the `ol` tag and the `ul` tag are sibling tags
+* The `ol` and the `ul` are both parent tags to their `li` tags
+* The `li` tags are all children tags of the `ol` or `ul` tags
+* The `li` tags are sibling tags within their own lists.
+
+</details><br>
+
+**Q: What is wrong with this HTML element?**
+
+```html
+<img>cat-pizza.png</img>
+```
+
+<details><summary>Answer</summary>
+
+The source of the image should be in the opening `<img>` tag as a `src` attribute.
+
+There should also be an `alt` attribute describing the picture.
+
+</details><br>
+
+**Q: How would you create a `<p>` element with the id `"caption-1"` and the classes `"italic"` and `"centered"`?**
+
+<details><summary>Answer</summary>
+
+<p id="caption-1" class="italic centered">
+  some text
+</p>
+
+</details><br>
+
+**Q: What page does this anchor tag take us to?**
+
+```html
+<a href="./">Go Home</a>
+```
+
+<details><summary>Answer</summary>
+
+The `index.html` page! 
+
+</details><br>
 
 **Q: Which semantic tags should we use in the code snippet above?**
 

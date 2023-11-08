@@ -1,0 +1,80 @@
+div#square {
+  background: red;
+  width: 15rem;
+  height: 15rem;
+
+  /* margin---------- */
+
+  /* border---------- */
+  border: 1rem solid black;
+  /* padding--------- */
+
+  /* display--------- */
+
+  /* box model------- */
+  /* box-sizing: content-box; */
+  /* box-sizing: border-box; */
+
+  /* positioning */
+  /* position: absolute; */
+  /* bottom: 0; */
+}
+
+div#rectangle {
+  background: green;
+  width: 15rem;
+  height: 10rem;
+
+  /* margin---------- */
+
+  /* border---------- */
+
+  /* padding--------- */
+
+  /* display--------- */
+
+  /* box model------- */
+  /* box-sizing: content-box; */
+  /* box-sizing: border-box; */
+
+  /* positioning */
+  position: static;
+  top: 0;
+
+}
+
+/* ignore until you get to positioning */
+div.divs {
+  /* position: relative; */
+}
+
+a {
+  height: 5rem;
+  width: 5rem;
+  border: 0.1rem solid black;
+
+  /* default, width height ignored */
+  display: inline;
+
+  /* width respected, height weird */
+  /* display: inline-block; */
+
+  /* on new line always, width height respected */
+  /* display: block; */
+}
+
+img{
+  display: inline;
+}
+
+#sticky {
+  height: 5rem;
+  width: 5rem;
+  background: blue;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}

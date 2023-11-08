@@ -1,0 +1,11 @@
+# Skills we're teaching
+- (CORE) why we write semantic html
+- (CORE) Why we always underline our links and give descriptive text
+- (CORE) Why we use alt tags
+- (CORE) Why we use rems
+- (CORE) Why we use proper headings
+- (CORE) Why we use landmarks
+- (CORE) Why we use aria-label and aria-labelledby
+- Be aware that voice overs and screen readers exist and dramatically shift the way users interact with our sites
+- Be aware that colorblindness and low contrast are real things that affect users
+- Be aware that chrome can simulate these things

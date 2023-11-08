@@ -1,12 +1,17 @@
-html {
+/* "reset" the default style */
+* {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
-*, *:before, *:after {
-  box-sizing: inherit;
-}
+
 img {
   width: 200px;
   padding: 10px;
+  border: 5px dotted red;
   margin: 10px;
-  border: 5px solid black;
+}
+
+h1 {
+  margin: 5px;
 }

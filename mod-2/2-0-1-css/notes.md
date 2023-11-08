@@ -13,6 +13,7 @@
   * [removing list styles](#removing-list-styles)
   * [Centering things](#centering-things)
   * [Image Fitting](#image-fitting)
+* [Quiz](#quiz)
 
 ## What is CSS?
 
@@ -32,16 +33,6 @@ p.vivid {
  
 * The browser already has some **default styles** but we can override those styles with our own. 
 * We can change the **color**, the **size**, the **font**, the **position**, and more of any element on the page.
-
-**Q: The tags `h1`, `h2`, and `p` all have different default styles. How are they different?**
-
-<details><summary>Answer</summary>
-
-Among other things, `h1` and `h2` elements are both bold compared to `p`. 
-
-`h1` elements have larger font than `h2` elements which have larger font than `p` elements.
-
-</details>
 
 ## Linking/Loading CSS Files
 
@@ -71,37 +62,13 @@ Among other things, `h1` and `h2` elements are both bold compared to `p`.
 
 > 💡 Tip! Test your connection with a few super obvious rules in the CSS file to make sure it's actually changing the HTML appearance. For example, make the `body` have a purple background!
 
-**Q: There are a few things wrong with the way this HTML file is trying to load the `styles.css` file. What are they?**
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-  </head>
-  <body>
-    <p>Hello World!</p>  
-    <link href="stylesheet" rel="./styles.css"> 
-  </body>
-</html>
-```
-
-<details><summary>Answer</summary>
-
-1. The `link` tag should be in the `head`, not in the `body` because it is meta information, not content to be displayed
-2. The `rel` and the `href` attributes are backwards. `href` should be a file path to the `.css` file and `rel` should be the relevance of the resource being linked.
-
-</details>
-
 ## Anatomy of CSS
 
 * A CSS rule is made up of a **selector** and a **declarations** 
   * the **selector** is what chooses the element(s) that will be styled
   * the **declarations** are the actual styles that will be applied
 
-![Alt text](./lecture/images/css-anatomy-of-a-rule.png)
+![Anatomy of a rule](./lecture-code/images/css-anatomy-of-a-rule.png)
 
 * Declarations are made up of key/property and value pairs (just like an object)
 * each declaration MUST end with a semicolon (unlike an object)
@@ -119,30 +86,6 @@ h1 {
   text-align: center;
 }
 ```
-
-**Q: What is wrong with the CSS syntax below?**
-
-```css
-{
-  color: red;
-  text-align: right;
-}
-
-h2 [ color: white; font-family: Arial; ]
-
-p {
-  font-weight: bold
-  margin: 10px
-}
-```
-
-<details><summary>Answer</summary>
-
-1. In the first CSS rule, there is no selector.
-2. In the second rule, `[]` are used instead of `{}`
-3. In the third rule, the declarations need to end with semicolons.
-
-</details>
 
 ## Selectors
 
@@ -193,32 +136,6 @@ a:hover { color: red } /* a link when the mouse hovers over it */
 a:active { color: blue; } /* a link the moment it is clicked */
 ```
 
-**Q: How would you make all `p` tags blue? How would you make only the `p` tags with `class="fun"` green? How would you make the second `p` tag `orange`?**
-
-```html
-<p class='fun'>first</p>
-<p class='fun' id='super-fun'>second</p>
-<p>third</p>
-```
-
-<details><summary>Answer</summary>
-
-```css
-p {
-  color: blue;
-}
-
-.fun {
-  color: green;
-}
-
-#super-fun {
-  color: orange;
-}
-```
-
-</details>
-
 ## Selector Specificity
 * **Selector specificity** determines how conflicting style rules are resolved
 * By default, "cascading" means that the rule that comes later, wins!
@@ -250,32 +167,6 @@ p {
 
 * Now, the `p` with the `id="subtitle"` attribute will be red, because it's more specific than the selector `p`. 
 
-**Q: What will be the color of paragraph?**
-
-```html
-<p class='fun'>Hello World</p> 
-```
-```css
-.fun {
-  color: orange;
-}
-p.fun {
-  color: blue;
-}
-p {
-  color: red;
-}
-#its-purple {
-  color: purple
-}
-```
-
-<details><summary>Answer</summary>
-
-It will be blue! The selector `p.fun` is the most specific selector that applies to this element.
-
-</details>
-
 
 ## Box Model
 
@@ -298,22 +189,6 @@ img {
 
 * **Total width** and **total height** is calculated as the sum of the content, padding, border, and margin.
 
-**Q: what is the width of the `img` element based on the CSS above?**
-
-<details><summary>Answer</summary>
-
-A 200px wide element with 10px padding and 10px margin will actually be 220px wide.
-
-</details><br>
-
-**Q: What issues might this cause?**
-
-<details><summary>Answer</summary>
-
-To specifically set the size of an element, we have to be aware of all four properties of the box model.
-
-</details><br>
-
 #### Solution: Border Box "Reset"
 
 * A **reset** is a CSS rule (or set of rules) that change one or more default styles for the entire document.
@@ -330,26 +205,6 @@ To specifically set the size of an element, we have to be aware of all four prop
 
 * Learn more here: https://css-tricks.com/box-sizing/
 
-**Q: What will the total width of the `img` element be after applying the CSS rules below? What will the width of the content box be?**
-
-```css
-* {
-  box-sizing: border-box;
-}
-img {
-  width: 200px;
-  padding: 10px;
-  margin: 10px;
-  border: 5px solid black;
-}
-```
-
-<details><summary>Answer</summary>
-
-The width of the entire `img` will be `200px` but the width of the image's content box will be `170px`.
-
-</details>
-
 ## Common CSS Tricks
 
 ### Relative Units: `rems`
@@ -362,13 +217,6 @@ The width of the entire `img` will be `200px` but the width of the image's conte
   * If the base font size is `16px`, then `1.5rem` will be 24 pixels and `2rem` will be `32 pixels`
   * This is a good way to make sure your site is accessible to people who need larger font sizes.
 
-**Q: A user sets their font size to "extra-large" which changes the base font size to `32px`. What will the size of an element with `font-size: 2rem;` be in pixels?**
-
-<details><summary>Answer</summary>
-
-`1rem` is equal to the base font size of `32px` so `2rem` will be `64px`.
-
-</details>
 
 ### removing list styles
 
@@ -411,7 +259,7 @@ p {
 * Specify *one* height or width to get the image to maintain it's natural aspect ratio. 
 * If you specify both, it will stretch the image to fit the box, which may not be what you want.
 
-### Homework
+## Homework
 
 So css has so many selectors, and it's helpful to know what they are! That's why the HW tonight is a game that runs through an incredible amount of them. There are lots of CSS properties to learn as well, but looking them up is simple. If you figure out how to *select* something, you'll be ok!
 
@@ -420,3 +268,136 @@ And remember, simplest is better. Writing your HTML to just include an id or cla
 **Link:** https://flukeout.github.io/
 **Goal:** Complete up to level 20. Take a screenshot/picture and upload it to Canvas.
 
+## Quiz!
+
+**Q: The tags `h1`, `h2`, and `p` all have different default styles. How are they different?**
+
+<details><summary>Answer</summary>
+
+Among other things, `h1` and `h2` elements are both bold compared to `p`. 
+
+`h1` elements have larger font than `h2` elements which have larger font than `p` elements.
+
+</details><br>
+
+**Q: What is wrong with the CSS syntax below?**
+
+```css
+{
+  color: red;
+  text-align: right;
+}
+
+h2 [ color: white; font-family: Arial; ]
+
+p {
+  font-weight: bold
+  margin: 10px
+}
+```
+
+<details><summary>Answer</summary>
+
+1. In the first CSS rule, there is no selector.
+2. In the second rule, `[]` are used instead of `{}`
+3. In the third rule, the declarations need to end with semicolons.
+
+</details><br>
+
+**Q: How would you make all `p` tags blue? How would you make only the `p` tags with `class="fun"` green? How would you make the second `p` tag `orange`?**
+
+```html
+<p class='fun'>first</p>
+<p class='fun' id='super-fun'>second</p>
+<p>third</p>
+```
+
+<details><summary>Answer</summary>
+
+```css
+p {
+  color: blue;
+}
+
+.fun {
+  color: green;
+}
+
+#super-fun {
+  color: orange;
+}
+```
+
+</details><br>
+
+**Q: What will be the color of paragraph?**
+
+```html
+<p class='fun'>Hello World</p> 
+```
+```css
+.fun {
+  color: orange;
+}
+p.fun {
+  color: blue;
+}
+p {
+  color: red;
+}
+#its-purple {
+  color: purple
+}
+```
+
+<details><summary>Answer</summary>
+
+It will be blue! The selector `p.fun` is the most specific selector that applies to this element.
+
+</details><br>
+
+**Q: what is the width of the `img` element based on the CSS above?**
+
+<details><summary>Answer</summary>
+
+A 200px wide element with 10px padding and 10px margin will actually be 220px wide.
+
+</details><br>
+
+**Q: What issues might be caused by the width affecting the "content-box" and not the overall width?**
+
+<details><summary>Answer</summary>
+
+To set the absolute size of an element, we have to calculate the width, padding, and border properties of the box model, which can either be challenging or annoying to maintain. 
+
+</details><br>
+
+**Q: What will the total width of the `img` element be after applying the CSS rules below? What will the width of the content box be?**
+
+```css
+* {
+  box-sizing: border-box;
+}
+img {
+  width: 200px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 10px;
+}
+```
+
+<details><summary>Answer</summary>
+
+The width of the entire `img` will be `200px` but the width of the image's content box will be `170px`.
+
+The `margin` will still add `10px` of space on all sides.
+
+</details><br>
+
+**Q: A user sets their font size to "extra-large" which changes the base font size to `32px`. What will the size of an element with `font-size: 2rem;` be in pixels?**
+
+<details><summary>Answer</summary>
+
+`1rem` is equal to the base font size of `32px` so `2rem` will be `64px`.
+
+</details><br>

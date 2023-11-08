@@ -107,14 +107,20 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 ## Mod 2 - Core: HTML, CSS, and DOM Manipulation
 
 #### Resources
+* [Tutorial: Building a Responsive Hamburger Nav Menu](https://www.youtube.com/watch?v=At4B7A4GOPg)
 
 #### Week 1
 * **11/6/23 - Intro to HTML** | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | [Recording](https://youtu.be/KYnf0Wg7720)
-* **11/7/23 - Intro to CSS** | [Key Terms](./mod-2/2-0-1-css/notes.md) | [Code](./mod-2/2-0-1-css/lecture-code/) | Recording
+* **11/7/23 - Intro to CSS** | [Key Terms](./mod-2/2-0-1-css/notes.md) | [Code](./mod-2/2-0-1-css/lecture-code/) | [Recording](https://youtu.be/KQdYKILn3d0)
 * **11/8/23 - CSS Positioning** | Key Terms | Code | Recording
 * **11/9/23 - Accessibility & HTML Best Practices** | Key Terms | Code | Recording
 
 #### Week 2
+
+* **11/13/23 - Flexbox**
+* **11/14/23 - Grid & Media Queries**
+* **11/13/23 - Putting it All Together**
+* **11/13/23 - Wireframing and Design**
 
 #### Week 3
 
