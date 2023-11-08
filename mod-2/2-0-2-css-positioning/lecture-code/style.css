@@ -10,7 +10,7 @@ div#square {
   /* padding--------- */
 
   /* display--------- */
-
+  
   /* box model------- */
   /* box-sizing: content-box; */
   /* box-sizing: border-box; */
@@ -61,6 +61,11 @@ a {
 
   /* on new line always, width height respected */
   /* display: block; */
+}
+
+span.vivid {
+  font-weight: bold;
+  color: purple;
 }
 
 img{
