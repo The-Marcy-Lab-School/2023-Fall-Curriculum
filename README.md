@@ -112,7 +112,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 #### Week 1
 * **11/6/23 - Intro to HTML** | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | [Recording](https://youtu.be/KYnf0Wg7720)
 * **11/7/23 - Intro to CSS** | [Key Terms](./mod-2/2-0-1-css/notes.md) | [Code](./mod-2/2-0-1-css/lecture-code/) | [Recording](https://youtu.be/KQdYKILn3d0)
-* **11/8/23 - CSS Positioning** | [Key Terms](./mod-2/2-0-2-css-positioning/key-terms.md) | [Code](./mod-2/2-0-2-css-positioning/lecture-code/) | Recording
+* **11/8/23 - CSS Positioning** | [Key Terms](./mod-2/2-0-2-css-positioning/key-terms.md) | [Code](./mod-2/2-0-2-css-positioning/lecture-code/) | [Recording](https://youtu.be/MCMH5kV72bQ)
 * **11/9/23 - Accessibility & HTML Best Practices** | Key Terms | Code | Recording
 
 #### Week 2
