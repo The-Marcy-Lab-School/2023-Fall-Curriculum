@@ -1,0 +1,44 @@
+article {
+  background: lightgreen;
+  padding: 0.5em;
+  max-width: 40rem;
+  /* min-width: 20rem; */
+} 
+
+.container {
+  border: 3px solid red;
+  margin-bottom: 1rem;
+  
+  /* All containers will be flex with a gap */
+  display: flex;
+  gap: 1em;
+
+  /* By default, flex items will shrink and NOT wrap */
+  /* flex-wrap: wrap; */
+}
+
+/* Recipe 1: A single centered element is easy with flexbox! */
+#container1 {
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* By default, flex items will expand to fit the space */
+.container > article {
+  /* flex-basis: 0; */
+  /* width: 100%; */
+  /* flex-grow: 1; */
+}
+
+
+#container2 > article:nth-child(2) {
+  /* flex-grow:3 */
+}
+
+#container3 > article:nth-child(2) {
+  /* flex-grow: 4; */
+}
+
+
+

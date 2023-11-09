@@ -1,0 +1,35 @@
+/* Resets / Default Styling */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1.2;
+  font-family: Helvetica;
+}
+body > * { padding: 0 1rem; }
+p, h2, h3, h4, h5, h6 { padding: 1rem 0;}
+h1 { margin: 2rem 0; }
+nav ul { list-style: none; }
+
+
+/* Main Content Styles */
+
+ul {
+  /* display: flex; */
+  /* gap: 1rem; */
+}
+
+header {
+  background-color: rgb(236, 236, 236);
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: space-between; */
+}
+
+main {
+  margin: 2rem 10%;
+}
+
+
