@@ -1,6 +1,12 @@
 # CSS Display + Positioning
 
-## Part 0 - Width, Height, Margin, padding, and border
+**Table of Contents**
+* [Box Model](#box-model)
+* [Display](#display)
+* [Content Box](#content-box)
+* [Position](#position)
+
+## Box Model
 
 ![The box model showing the margin, border, padding, and content. The width and height affect the content box by default](lecture-code/images/margin-padding-content.png)
 
@@ -17,7 +23,7 @@ Challenges:
 - Can you only add space below the square without pushing it away from the side of the screen?
 
 -----------------------------------------
-# Part 1: display
+# display
 * Notice how the `div` and `p` tags each get a new line, but the `a` and `img` tags are in the same line? 
 * That's because their `display` is different:
 

@@ -108,6 +108,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Resources
 * [Tutorial: Building a Responsive Hamburger Nav Menu](https://www.youtube.com/watch?v=At4B7A4GOPg)
+* [Intro to Accessibility Video](https://www.youtube.com/watch?v=1A6SrPwmGpg&t=802s&ab_channel=WebDevSimplified)
 
 #### Week 1
 * **11/6/23 - Intro to HTML** | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | [Recording](https://youtu.be/KYnf0Wg7720)

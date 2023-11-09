@@ -1,4 +1,4 @@
-# Lecture Prep 2.0.1 - Intro To CSS
+# CSS
 
 **Table of Contents**
 
@@ -173,7 +173,7 @@ p {
 * The **box model** is how the browser calculates the size of an element. 
 * It's made up of the **content**, **padding**, **border**, and **margin**. 
 
-![Alt text](./lecture/images/margin-padding-content.png)
+![Alt text](./lecture-code/images/margin-padding-content.png)
 
 * By default, `width` and `heigth` refer to the size of the _content box_
 

@@ -5,9 +5,9 @@ This lecture is a little different! There's just `lecture` since you won't be ed
 # A11y Commands you'll need
 
 ## Voiceover on Mac
-voiceover on mac: command + f5
+voiceover on mac: <kbd>command + f5</kbd>
 - `VO` is "ctrl + option" by default
-- Rotor web navigation on mac: `VO`` + u
+- Rotor web navigation on mac: `VO` + u
   - Rotor navigation uses the arrows, left and right to change menus, and up and down to select options on the menu
   - I *highly* encourage you to poke around with this as it's tricky!
 
