@@ -112,6 +112,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Learn: Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU&ab_channel=KevinPowell)
 * [Practice: CSS Diner](https://flukeout.github.io/)
 * [Practice: Flexbox Froggy](https://flexboxfroggy.com/)
+* [Practice: CSS Grid Garden](https://cssgridgarden.com/)
 * [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
 
 #### Week 1
