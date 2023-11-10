@@ -107,8 +107,12 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 ## Mod 2 - Core: HTML, CSS, and DOM Manipulation
 
 #### Resources
-* [Tutorial: Building a Responsive Hamburger Nav Menu](https://www.youtube.com/watch?v=At4B7A4GOPg)
-* [Intro to Accessibility Video](https://www.youtube.com/watch?v=1A6SrPwmGpg&t=802s&ab_channel=WebDevSimplified)
+* [Learn: Intro to Accessibility Video](https://www.youtube.com/watch?v=1A6SrPwmGpg&t=802s&ab_channel=WebDevSimplified)
+* [Learn: Flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU&ab_channel=KevinPowell)
+* [Learn: Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU&ab_channel=KevinPowell)
+* [Practice: CSS Diner](https://flukeout.github.io/)
+* [Practice: Flexbox Froggy](https://flexboxfroggy.com/)
+* [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
 
 #### Week 1
 * **11/6/23 - Intro to HTML** | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | [Recording](https://youtu.be/KYnf0Wg7720)
