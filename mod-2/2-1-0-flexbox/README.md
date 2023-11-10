@@ -1,5 +1,22 @@
 # 2.1.0 Flexbox Lecture Plan
 
+**Resources**:
+* [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A great video to learn flexbox](https://www.youtube.com/watch?v=u044iM9xsWU&ab_channel=KevinPowell)
+
+**Table of Contents**:
+- [Part 0 - Explore Flexbox on Youtube](#part-0---explore-flexbox-on-youtube)
+- [Part 1 - Flex Containers and Flex Items](#part-1---flex-containers-and-flex-items)
+- [Part 2 - Demo Styling a Navbar using Flexbox Container Properties](#part-2---demo-styling-a-navbar-using-flexbox-container-properties)
+- [Part 3 - Flexbox Main and Cross Axes](#part-3---flexbox-main-and-cross-axes)
+  - [Justify Content](#justify-content)
+  - [Align Items](#align-items)
+  - [Flex Direction](#flex-direction)
+- [Part 4 - Growing and Shrinking](#part-4---growing-and-shrinking)
+  - [Flex Wrap](#flex-wrap)
+  - [Flex Grow](#flex-grow)
+  - [Equal Columns](#equal-columns)
+
 ## Part 0 - Explore Flexbox on Youtube
 
 > **Pacing:** 5 minutes (5 minutes total)
@@ -25,8 +42,6 @@ Flex does two things:
 * By default, flex items are placed in a row
 
 ![Flex containers and flex items](./lecture/images/flex-container-items.png)
-
-* [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Part 2 - Demo Styling a Navbar using Flexbox Container Properties
 
@@ -90,7 +105,7 @@ ul {
   * The main axis is now vertical
   * The cross axis is now horizontal
 
-## Growing and Shrinking
+## Part 4 - Growing and Shrinking
 
 > **Pacing:** 15 minutes (50 minutes total)
 > **Learning Objective:** See how flex items behave when space is limited.
@@ -131,12 +146,22 @@ ul {
 
 ### Equal Columns
 
-```cs
-.flex-item {
-  basis: 0;
-  width: 100%;
-  flex-grow: 1;
-}
+* To achieve equal columns, we need to ensure that each flex item starts with the same size (`flex-basis: 0%`) and will grow/shrink at the same rate (`flex-grow: 1` and `flex-shrink: 1`).
 
+```css
+.flex-item {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0;
+  /* flex: 1 1 0; */
+  /* flex: 1; */
+}
 ```
 
+* The `flex` property can serve as a short-hand for all three: `flex: 1 1 0%`
+* The default is `0 1 auto`, but if you set it with a single number value, like `flex: 5;`, that changes the `flex-basis` to `0%`, so it’s like setting `flex-grow: 5; flex-shrink: 1; flex-basis: 0%;`.
+
+## Part 5 - Examples!
+
+* Check out the `3-photo-gallery/` directory for a cool example of using flexbox to make a wall-to-wall flexible photo gallery based on this post: [Adaptive Photo Layout With Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
+* [19 CSS Flexbox Examples](https://freefrontend.com/css-flexbox-examples/)

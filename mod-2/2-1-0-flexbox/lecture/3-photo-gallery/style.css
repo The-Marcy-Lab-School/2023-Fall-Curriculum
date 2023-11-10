@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  height: 40vh;
+  flex-grow: 1;
+}
+
+img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover; /* maintains the aspect ratio of a "replaced element" */
+  vertical-align: bottom;
+}
+
+/* 
+A note on the `object-fit` property
+
+Images are "replaced elements"
+
+In CSS, a replaced element is an element whose representation is 
+outside the scope of CSS; they're external objects whose representation 
+is  independent of the CSS formatting model.
+
+Put in simpler terms, they're elements whose contents are not affected 
+by the current document's styles. 
+*/
+
+
+li:last-child {
+  flex-grow: 10;
+}
+
+@media (max-aspect-ratio: 1/1) {
+  li {
+    height: 30vh;
+  }
+}
+
+@media (max-height: 480px) {
+  li {
+    height: 80vh;
+  }
+}
+
+@media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+  ul {
+    flex-direction: row;
+  }
+
+  li {
+    height: auto;
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+    max-height: 75vh;
+    min-width: 0;
+  }
+}
