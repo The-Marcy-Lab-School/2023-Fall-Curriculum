@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+#one { background: red; }
+#two { background: orange; }
+#three { background: yellow; }
+#four { background: green; }
+#five { background: blue; }
+#six { background: purple; }
+
+.flex-container {
+  border: 1px solid black;
+  background: lightgrey;
+  padding: 2rem;
+
+  /* Flex Styles */
+  display: flex;
+  justify-content: space-between;
+  gap: .5rem;
+}
+
+.square {
+  border: 1px solid black;
+  font-size: 30px;
+  height: 100px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  transition: 0.5s;
+}
+
+.square:hover {
+  flex-grow: 3;
+}
+
