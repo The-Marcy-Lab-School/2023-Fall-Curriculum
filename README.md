@@ -115,6 +115,10 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Practice: CSS Grid Garden](https://cssgridgarden.com/)
 * [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
 
+#### Labs
+* [Lab 1: My First Site](https://github.com/The-Marcy-Lab-School/2-0-2-lab_first-site)
+* [Lab 2: Responsive Product Page](https://github.com/The-Marcy-Lab-School/2-1-0-lab_product-page)
+
 #### Week 1
 * **11/6/23 - Intro to HTML** | [Key Terms](./mod-2/2-0-0-html/notes.md) | [Code](./mod-2/2-0-0-html/lecture-code/) | [Recording](https://youtu.be/KYnf0Wg7720)
 * **11/7/23 - Intro to CSS** | [Key Terms](./mod-2/2-0-1-css/notes.md) | [Code](./mod-2/2-0-1-css/lecture-code/) | [Recording](https://youtu.be/KQdYKILn3d0)
@@ -123,7 +127,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 2
 
-* **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo)
+* **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo) | [Lab 1 Lab Review Recording]
 * **11/14/23 - Grid & Media Queries** | Slides
 * **11/13/23 - Putting it All Together** | Slides
 * **11/13/23 - Wireframing and Design** | Slides
