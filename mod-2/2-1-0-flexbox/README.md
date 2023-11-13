@@ -21,7 +21,7 @@
 
 > **Pacing:** 5 minutes (5 minutes total)
 > **Learning Objectives:** See flexbox in the real world
-> * Open https://www.youtube.com/ and see how elements shift in size as you resize the window. Point out the the vidoes that are aligned next to each other are NOT inline, they are flex items.
+> * Open https://www.youtube.com/ and see how elements shift in size as you resize the window. Point out the the videos that are aligned next to each other are NOT inline, they are flex items.
 
 Flex does two things: 
 1. puts things in a row (or column if you need to)
@@ -54,7 +54,7 @@ Flex does two things:
 * `display: flex` arranges flex items horizontal
 * Making a navigation bar is one of the common applications of flexbox since **we typically want to align navigation elements horizontally**.
 
-![Without flexbox, items are aligned vertically. WIth flex box, we can align items horizontally with nice spacing](lecture/images/flexbox-comparison.png)
+![Without flexbox, items are aligned vertically. With flex box, we can align items horizontally with nice spacing](lecture/images/flexbox-comparison.png)
 
 ```css
 header {

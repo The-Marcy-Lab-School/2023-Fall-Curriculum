@@ -25,14 +25,20 @@
   font-size: 30px;
   height: 100px;
   
+  /* Flex Styles */
   display: flex;
   align-items: center;
   justify-content: center;
+
+  
   flex-grow: 1;
+
+  /* CSS Animations*/
   transition: 0.5s;
 }
 
 .square:hover {
   flex-grow: 3;
+  background: white;
 }
 

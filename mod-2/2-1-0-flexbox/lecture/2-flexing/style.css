@@ -1,7 +1,7 @@
 article {
   background: lightgreen;
   padding: 0.5em;
-  max-width: 40rem;
+  /* max-width: 40rem; */
   /* min-width: 20rem; */
 } 
 
@@ -14,7 +14,7 @@ article {
   gap: 1em;
 
   /* By default, flex items will shrink and NOT wrap */
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
 }
 
 /* Recipe 1: A single centered element is easy with flexbox! */
@@ -23,18 +23,24 @@ article {
   justify-content: center;
 }
 
+/* Recipe 2: Equal Width Columns that all flex at the same rate*/
 
 /* By default, flex items will expand to fit the space */
 .container > article {
-  /* flex-grow: 1; */
-  /* flex-shrink: 1; */
-  /* flex-basis: 0; */
+  /* All items start at the same size (along the main axis) */
+  flex-basis: 0%; 
+
+  /* All items then grow and shrink at the same rate*/
+  flex-grow: 1;
+  flex-shrink: 1;
+
   /* flex: 1; */
 }
 
+/* Recipe 3: Specifying a column to be wider than the other items */
 
 #container2 > article:nth-child(2) {
-  /* flex-grow:3 */
+  /* flex-grow: 7; */
 }
 
 #container3 > article:nth-child(2) {

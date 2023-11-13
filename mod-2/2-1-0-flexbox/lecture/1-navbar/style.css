@@ -15,17 +15,27 @@ nav ul { list-style: none; }
 
 
 /* Main Content Styles */
-
+p {
+  padding: 0;
+}
 ul {
-  /* display: flex; */
-  /* gap: 1rem; */
+  display: flex;
+  gap: 1rem;
 }
 
 header {
+  padding: 0.5rem;
   background-color: rgb(236, 236, 236);
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: space-between; */
+  display: flex;
+
+  /* alignment along the main axis */
+  justify-content: space-between; 
+  
+  /* alignment along the cross axis */
+  align-items: center;
+   
+  gap: 0.2rem;
+  flex-direction: row;
 }
 
 main {
