@@ -1,0 +1,51 @@
+
+div {
+  background: teal;
+  color: white;
+  border: 2px solid lightgrey;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 25vh;
+}
+
+/* at 576px, go to 2 columns */
+@media (min-width: 576px) and (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  div:nth-child(1) {
+    grid-column: 1 / 3;
+    grid-row: 1
+  }
+  div:nth-child(3) {
+    grid-row: 2 / 4;
+    grid-column: 2;
+  }
+  div:nth-child(4) {
+    grid-row: 3 / 5;
+    grid-column: 1;
+  }
+  div:nth-child(6) {
+    grid-row: 5 / 7;
+    grid-column: 1 / 3;
+  }
+}
+
+/* At 768px go to 3 columns */
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: .5rem;
+  }
+}
+
+/* At 992px go to 4 columns */
+@media (min-width: 992px) {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

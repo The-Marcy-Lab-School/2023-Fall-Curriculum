@@ -17,7 +17,7 @@ ul {
   /* 5 equal sized columns */
   /* new rows will have height === 20% of viewport width */
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  /* grid-auto-rows: 20vw;  */
+  grid-auto-rows: 20vw; 
   /* grid-auto-rows: 1fr;  */
   
   /* just like flexbox! */

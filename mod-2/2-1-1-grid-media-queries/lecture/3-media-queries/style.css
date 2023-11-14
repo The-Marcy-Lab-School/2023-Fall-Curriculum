@@ -5,6 +5,8 @@
   background: lightskyblue;
   color: black;
   font-size: 2rem;
+
+  transition: 1s;
 }
 
 .container {

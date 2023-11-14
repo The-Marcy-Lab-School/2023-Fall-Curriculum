@@ -127,10 +127,10 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 2
 
-* **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo) | [Lab 1 Lab Review Recording]
-* **11/14/23 - Grid & Media Queries** | [Notes](./mod-2/2-1-1-grid-media-queries/README.md) | [Code](./mod-2/2-1-1-grid-media-queries/lecture/)
-* **11/13/23 - Putting it All Together** | Slides
-* **11/13/23 - Wireframing and Design** | Slides
+* **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo) | [Lab 1 Lab Review Recording](https://youtu.be/5VNqoLq8qoY?si)
+* **11/14/23 - Grid & Media Queries** | [Notes](./mod-2/2-1-1-grid-media-queries/README.md) | [Code](./mod-2/2-1-1-grid-media-queries/lecture/) | [Recording](https://youtu.be/a9035GWrNPg)
+* **11/13/23 - Putting it All Together** | Code | Recording
+* **11/13/23 - Wireframing and Design** | Recording
 
 #### Week 3
 
