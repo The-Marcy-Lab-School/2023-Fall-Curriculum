@@ -1,0 +1,84 @@
+/* -------------- */
+/* Default Styles */
+/* -------------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none; 
+  
+  /* Uncomment to turn on global borders */
+  /* border: 1px solid black; */
+}
+body, header, nav, article, footer, figure, h2, ul {
+  padding: 1rem; 
+}
+img {
+  width: 100%;
+}
+
+/* ------------- */
+/* Header Styles */
+/* ------------- */
+header { 
+  text-align: center;
+  background: lavender;
+}
+
+
+/* ----------- */
+/* Main Styles */
+/* ----------- */
+
+nav { 
+  background: whitesmoke;
+}
+nav ul {
+  /* Add Flex Styles Here */
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+nav li {
+  padding-right: 1em;
+}
+
+article { 
+  background: white;
+}
+
+
+/* ------------- */
+/* Footer Styles */
+/* ------------- */
+footer { 
+  background: lavender;
+}
+.footer-nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+/* ------------- */
+/* Media Queries */
+/* ------------- */
+
+/* Add a single media query for screens at least 576px wide 
+
+Syntax: 
+@media (queryProp:queryValue) {
+  selector { prop: value; }
+}
+*/
+
+@media (min-width: 576px) {
+  nav ul {
+    flex-direction: column;
+  }
+  
+  main {
+    display: flex;
+  }
+}

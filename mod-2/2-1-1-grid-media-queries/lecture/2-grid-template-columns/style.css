@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+div { border-radius: 9px; padding: 0.5rem; }
+
+.grid-item {
+  background: lightskyblue;
+  border: 1px solid black;
+  /* Use flex to center the inner p element */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid-container {
+  margin: 20px;
+  background: lightgrey;
+  border: 1px solid black;
+  padding: 30px;
+  
+  /* Grid Props*/
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* make 4 equal-sized columns */
+  
+  /* grid-template-columns: repeat(4, 1fr) */
+
+  /* grid-auto-rows: 1fr; */
+  
+  gap: 1em;
+}
+

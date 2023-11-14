@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+ul {
+  list-style: none;
+
+  display: grid;
+
+  /* 5 equal sized columns */
+  /* new rows will have height === 20% of viewport width */
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  /* grid-auto-rows: 20vw;  */
+  /* grid-auto-rows: 1fr;  */
+  
+  /* just like flexbox! */
+  gap: 5px; 
+}
+  
+
+/* Media Queries allow us to apply different styles for different "breakpoints" */
+
+/* For screens above 1000px wide, apply these styles */
+@media (min-width: 1000px) { 
+  ul {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media (min-width: 1300px) {
+  ul {
+    grid-template-columns: repeat(7, 1fr);
+  }
+}
+
+@media (min-width: 1600px) {
+  ul {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
+@media (min-width: 1900px) {
+  ul {
+    grid-template-columns: repeat(9, 1fr);
+  }
+}
+
+/* For screens below 1000px wide, apply these styles */
+@media (max-width: 1000px) {
+  li:nth-child(18) {
+    grid-column: 4 / 6;
+    grid-row: 1;
+  }
+  
+  li:nth-child(7) {
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+  }
+
+  li:nth-child(15) {
+    grid-column: 5;
+    grid-row: 3 / 5;
+  }
+
+  li:nth-child(16) {
+    grid-column: 1/3;
+    grid-row: 5;
+  }
+}
