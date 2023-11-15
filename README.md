@@ -129,7 +129,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 * **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo) | [Lab 1 Lab Review Recording](https://youtu.be/5VNqoLq8qoY?si)
 * **11/14/23 - Grid & Media Queries** | [Notes](./mod-2/2-1-1-grid-media-queries/README.md) | [Code](./mod-2/2-1-1-grid-media-queries/lecture/) | [Recording](https://youtu.be/a9035GWrNPg)
-* **11/13/23 - Putting it All Together** | [Code](./mod-2/2-1-2-putting-it-all-together/) | Recording
+* **11/13/23 - Putting it All Together** | [Code](https://github.com/benspector-mls/putting-it-all-together-lecture-11-15-23) | [Recording](https://youtu.be/-N9rwB6egBI)
 * **11/13/23 - Wireframing and Design** | Recording
 
 #### Week 3
