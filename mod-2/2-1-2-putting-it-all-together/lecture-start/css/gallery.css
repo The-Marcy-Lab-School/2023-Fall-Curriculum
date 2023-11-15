@@ -1,0 +1,21 @@
+#photo-gallery {
+  max-width: 1200px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+ul {
+  list-style: none;
+
+  /* Default: grid, 1 column, rows 40vw, 5px gap */
+
+}
+
+/* At 768px, 2 columns with rows no larger than 34vh */
+
+/* At 976px, 3 columns with rows no larger than 25vh */

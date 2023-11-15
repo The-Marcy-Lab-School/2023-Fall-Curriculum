@@ -1,0 +1,12 @@
+.links {
+  list-style: none;
+  font-size: 1.5rem;
+  
+  /* flex, space between, center aligned, gap 3rem */
+
+}
+
+a, a:visited {
+  color: white;
+  color: lightgrey;
+}

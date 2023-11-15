@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+header {
+  padding: 1rem;
+  background: black;
+  color: white;
+  
+  /* flex, space between, center aligned */
+  
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+main {
+  padding: 3rem;
+  
+  /* Flex, centered column, gap 1rem */
+}
