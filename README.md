@@ -114,7 +114,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Practice: Flexbox Froggy](https://flexboxfroggy.com/)
 * [Practice: CSS Grid Garden](https://cssgridgarden.com/)
 * [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
-* [Fullstack Engineer Career Path on Codecademy](https://www.codecademy.com/enrolled/paths/full-stack-engineer-career-path)
+* [Codecademy: Build Interactive Websites Course](https://www.codecademy.com/learn/build-interactive-websites)
+* [Codecademy: Fullstack Engineer Career Path](https://www.codecademy.com/enrolled/paths/full-stack-engineer-career-path)
 
 #### Labs
 * [Lab 1: My First Site](https://github.com/The-Marcy-Lab-School/2-0-2-lab_first-site)
@@ -131,7 +132,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **11/13/23 - Flexbox** | [Notes](./mod-2/2-1-0-flexbox/README.md) | [Code](./mod-2/2-1-0-flexbox/lecture/) | [Recording](https://youtu.be/GldHyR6j9Jo) | [Lab 1 Lab Review Recording](https://youtu.be/5VNqoLq8qoY?si)
 * **11/14/23 - Grid & Media Queries** | [Notes](./mod-2/2-1-1-grid-media-queries/README.md) | [Code](./mod-2/2-1-1-grid-media-queries/lecture/) | [Recording](https://youtu.be/a9035GWrNPg)
 * **11/13/23 - Putting it All Together** | [Code](https://github.com/benspector-mls/putting-it-all-together-lecture-11-15-23) | [Part 1 Recordin (flexbox)](https://youtu.be/-N9rwB6egBI) | [Part 2 Recording (grid + media queries)](https://youtu.be/3dXsbCwWcGE)
-* **11/13/23 - Wireframing and Design** | [Slides](https://www.figma.com/proto/yeXVwe2ye4hTSXJrWNcdp1/Untitled?node-id=1-3&scaling=scale-down&mode=design&t=OEMbRlSMYXKhGKYo-1)
+* **11/13/23 - Wireframing and Design** | [Slides](https://www.figma.com/proto/yeXVwe2ye4hTSXJrWNcdp1/Untitled?node-id=1-3&scaling=scale-down&mode=design&t=OEMbRlSMYXKhGKYo-1) | [Assets](https://drive.google.com/drive/folders/1on_2D929nAzB4anlCphcQWiBy1tSE8pL?usp=sharing)
 
 #### Week 3
 
