@@ -136,7 +136,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 3
 
-* **Intro to DOM** | [Repo with Code and Notes](https://github.com/The-Marcy-Lab-School/2-2-0-intro-to-dom-f23) | Recording
+* **Intro to DOM** | [Repo with Code and Notes](https://github.com/The-Marcy-Lab-School/2-2-0-intro-to-dom-f23) | [Recording](https://youtu.be/u0NLtkpEaX8)
 * **JS Events**
 * **Forms**
 * **Github Pages**
