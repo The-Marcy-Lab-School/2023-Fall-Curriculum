@@ -136,10 +136,9 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 3
 
-* **Intro to DOM** | [Repo with Code and Notes](https://github.com/The-Marcy-Lab-School/2-2-0-intro-to-dom-f23) | [Recording](https://youtu.be/u0NLtkpEaX8)
-* **JS Events**
-* **Forms**
-* **Github Pages**
+* **11/28/23 - Intro to DOM** | [Repo with Code and Notes](https://github.com/The-Marcy-Lab-School/2-2-0-intro-to-dom-f23) | [Recording](https://youtu.be/u0NLtkpEaX8)
+* **11/29/23 - JS Events** | [Repo with Code and Notes](https://github.com/The-Marcy-Lab-School/2-2-1-dom-events-f23) | Recording coming soon...
+* **11/30/23 - Forms**
 
 #### Week 4
 
