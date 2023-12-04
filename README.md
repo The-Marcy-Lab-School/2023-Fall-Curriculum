@@ -142,10 +142,10 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 4
 
-* **12/4/23 - ESModules & Vite** | ESModules Repo with Code | [Getting Started With Vite Instructions](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | 
+* **12/4/23 - ESModules & Vite** | [ESModules Repo with Code](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-vite-f23) | [Getting Started With Vite Instructions](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | Recording
 * **12/5/23 - LocalStorage & Layers** | 
 * **12/6/23 - DOM Review** | 
-* **12/7/23 - Git Workflows & Deployment** | [Deploying with Github Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
+* **12/7/23 - Git Workflows & Deployment** | [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
 
 ---
 
