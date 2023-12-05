@@ -1,0 +1,17 @@
+[
+  {
+    "uuid": "5affd4e4-418d-4b62-beeb-1c0f7aaff753",
+    "title": "Take out the trash",
+    "isComplete": false
+  },
+  {
+    "uuid": "32521ef4-d64c-4906-b06d-f3d0d6b16e0f",
+    "title": "Wash the dishes",
+    "isComplete": false
+  },
+  {
+    "uuid": "8b144d62-faa7-4226-87e1-096d7c1bedc7",
+    "title": "Pay rent",
+    "isComplete": true
+  }
+]

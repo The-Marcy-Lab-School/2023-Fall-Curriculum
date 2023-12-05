@@ -1,3 +1,11 @@
+/* 
+Storing data in a user's `localStorage` is like storing data in an Object. Every **value** we store is associated with a **key**.
+
+* We store (set) values using `localStorage.setItem(key, valueString)`
+* We retrieve (get) values using `localStorage.getItem(key)`
+
+Note: `localStorage` can only store strings which we have to watch out for.
+*/
 const basicLocalStorage = () => {
   localStorage.setItem('luckyNumber', 13);
   localStorage.setItem('favoriteColor', 'purple');
@@ -10,7 +18,13 @@ const basicLocalStorage = () => {
   console.log('storedNumber type: ', typeof storedNumber);  // string
   console.log('storedNumber type: ', typeof storedColor);   // string
 }
+basicLocalStorage();
 
+
+/* 
+Problem: .toString() doesn't work well with Arrays/Objects
+Solution: but JSON.stringify() does!
+*/
 const toStringVsStringify = () => {
   const num = 13
   const bool = true
@@ -26,6 +40,9 @@ const toStringVsStringify = () => {
   console.log(JSON.stringify(arr)); // [1, 2, 3]
   console.log(JSON.stringify(obj)); // { name: 'ben' }
 }
+// toStringVsStringify();
+
+
 
 /* 
 Problem: only string values work with localStorage
@@ -33,10 +50,7 @@ Solution: JSON.stringify() and JSON.parse()
 */
 const stringifyAndParse = () => {
   const instructors = ['ben', 'gonzalo', 'motun', 'zo', 'carmen'];
-  const user = {
-    name: 'ben',
-    canCode: true
-  }
+  const user = { name: 'ben', canCode: true };
 
   // We typically will JSON.stringify() the value before we set it... 
   localStorage.setItem('instructors', JSON.stringify(instructors));
@@ -49,11 +63,4 @@ const stringifyAndParse = () => {
   console.log('storedInstructors:', storedInstructors);
   console.log('storedUser:', storedUser);
 }
-
-const main = () => {
-  basicLocalStorage();
-  toStringVsStringify();
-  stringifyAndParse();
-}
-
-main();
+// stringifyAndParse();

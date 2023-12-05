@@ -154,8 +154,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **12/4/23 - ESModules & Vite** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-vite-f23) | [Lecture Recording](https://youtu.be/q4yzSdSyisc) | 
 * **12/4/23 - Lab Review: Todo App** | [Recording](https://youtu.be/UWdYsmq7s9g)
 * **12/5/23 - LocalStorage & Layers** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23) | Recording
-* **12/6/23 - DOM Review** | 
-* **12/7/23 - Git Workflows & Deployment** | [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
+* **12/6/23 - DOM Review** | Recording
+* **12/7/23 - Git Workflows & Deployment** | [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) | Recording
 
 ---
 
