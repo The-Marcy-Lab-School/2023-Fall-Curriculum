@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Forms</title>
+  </head>
+  <body>
+    <h1>Basic Forms</h1>
+    <form>
+      <h2>Tell us about you!</h2>
+      <label for="username-input">Username:</label>
+      <input type="text" id="username-input" name="username" />
+
+      <!-- The label's `for` attribute must match the input's `id` attribute  -->
+      <!-- Use kabob-case for `id`, camelCase for `name` -->
+      <label for="age-input">Age:</label>
+      <input type="number" id="age-input" name="age" />
+
+      <label for="is-hungry-input">Are you Hungry?</label>
+      <input type="checkbox" id="is-hungry-input" name="isHungry" />
+
+      <label for="favorite-color-input">Favorite Color:</label>
+      <input type="color" id="favorite-color-input" name="favoriteColor" />
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>

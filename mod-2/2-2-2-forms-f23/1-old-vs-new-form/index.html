@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Modern Forms</title>
+  </head>
+  <body>
+    <header>
+      <h1>Forms Practice - Modern Forms</h1>
+      <nav>
+        <a href="./original-way.html">Original Forms</a>
+      </nav>
+    </header>
+    <main>
+      <form id="new-way" aria-label="modern-form">
+        <h2 id="new-header">The New Way</h2>
+        <p>We'll use JavaScript to prevent the default behavior of the form.</p>
+
+        <div class="input-container">
+          <label for="current-mood"> Current mood: </label>
+          <input type="text" id="current-mood" name="currentMood" placeholder="How are you feeling?" />
+        </div>
+
+        <div class="input-container">
+          <label for="is-hungry"> Are you hungry? </label>
+          <input type="checkbox" id="is-hungry" name="isHungry" />
+        </div>
+
+        <fieldset>
+          <legend>Choose your favorite color</legend>
+          <div class="input-container">
+            <input id="color-red" type="radio" name="color" value="red" checked />
+            <label for="color-red"> Red </label>
+          </div>
+          <div class="input-container">
+            <input id="color-blue" type="radio" name="color" value="blue" />
+            <label for="color-blue"> Blue </label>
+          </div>
+          <div class="input-container">
+            <input id="color-green" type="radio" name="color" value="green" />
+            <label for="color-green"> Green </label>
+          </div>
+        </fieldset>
+
+        <label for="favorite-fruit"> Choose your favorite fruit </label>
+        <select id="favorite-fruit" name="favoriteFruit">
+          <option value="apple">Apple</option>
+          <option value="banana">Banana</option>
+          <option value="orange">Orange</option>
+        </select>
+
+        <button type="reset">Reset Form</button>
+        <button type="button" id="normal-button">Capitalize Mood</button>
+        <button class="submit">Submit</button>
+      </form>
+    </main>
+    <script src="./index.js"></script>
+  </body>
+</html>

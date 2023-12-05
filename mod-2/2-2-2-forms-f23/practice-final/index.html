@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Practice</title>
+    <style>
+      div {
+        display: flex;
+        gap: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Form Practice</h1>
+    <!-- Add your form here -->
+    <form action="" aria-label="food-form">
+      <h2>Form about Food</h2>
+      <div>
+        <label for="favorite-food">What is your favorite food?</label>
+        <input type="text" name="favoriteFood" id="favorite-food" />
+      </div>
+
+      <div>
+        <label for="time-to-eat">What is your favorite time to eat?</label>
+        <input type="number" name="timeToEat" id="time-to-eat" />
+      </div>
+
+      <div>
+        <label for="is-vegetarian">Are you vegetarian?</label>
+        <input type="checkbox" name="isVegetarian" id="is-vegetarian" />
+      </div>
+
+      <button type="submit">Submit</button>
+    </form>
+    <script src="index.js"></script>
+    <script>
+      console.log("hello world");
+    </script>
+  </body>
+</html>
