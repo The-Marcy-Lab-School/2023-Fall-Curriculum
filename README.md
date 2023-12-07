@@ -147,7 +147,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
 * [Chartjs Compare Movies](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
 * [Getting Started With Vite Instructions](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | [Recording](https://youtu.be/UnsukVi6hJY)
-* [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
+* [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) | [Recording](https://youtu.be/0Iw6SZpnHKY)
 
 **Lecture Resources**
 
@@ -155,7 +155,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **12/4/23 - Lab Review: Todo App** | [Recording](https://youtu.be/UWdYsmq7s9g)
 * **12/5/23 - LocalStorage** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23) | [Recording](https://youtu.be/h-wxMv2a-zg)
 * **12/6/23 - Todo App Data Layers** | Recording
-* **12/7/23 - Git Workflows & Deployment** | [Deploying with Github Pages Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) | Recording
+* **12/7/23 - Vite & Github Pages** | [Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) | [Recording](https://youtu.be/0Iw6SZpnHKY)
 
 ---
 
