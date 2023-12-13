@@ -140,7 +140,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **11/29/23 - JS Events** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-2-1-dom-events-f23) | [Intro to Events Recording](https://youtu.be/81uvlShxbao) | [Event Propagation Recording](https://youtu.be/uI73TKGprfw)
 * **11/30/23 - Forms** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-2-2-forms-f23) | [Recording](https://youtu.be/FKxfSreToGo)
 
-#### Week 4
+#### Week 4 - 5 (Solo Project)
 
 **Project Week Resources**
 
@@ -156,6 +156,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **12/5/23 - LocalStorage** | [Repo with Code & Notes](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23) | [Recording](https://youtu.be/h-wxMv2a-zg)
 * **12/6/23 - Todo App Data Layers** | Recording
 * **12/7/23 - Vite & Github Pages** | [Instructions](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) | [Recording](https://youtu.be/0Iw6SZpnHKY)
+* **12/13/23 - Project Review** | [Repo](https://github.com/The-Marcy-Lab-School/2-4-0-project-review)
 
 ---
 
