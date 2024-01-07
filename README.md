@@ -2,7 +2,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-2---core-html-css-and-dom-manipulation)**
+**[> Skip to current unit <](#mod-3---core-asynchronous-javascript)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -160,8 +160,15 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ---
 
-
 ## Mod 3 - Core: Asynchronous JavaScript
+
+#### Week 1
+
+**1/7/24 - Intro to Promises** | [Repo with Code](https://github.com/The-Marcy-Lab-School/3-0-0-intro-to-promises-f23)
+**1/8/24 - Intro to Fetch** | [Repo with Code](https://github.com/The-Marcy-Lab-School/3-0-1-intro-to-fetch-f23)
+**1/9/24 - Async/Await** | [Repo with Code](https://github.com/The-Marcy-Lab-School/3-0-2-async-await-f23)
+**1/10/24 - Fetch then Render** |
+
 
 ---
 
