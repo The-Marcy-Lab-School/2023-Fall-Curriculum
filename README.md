@@ -174,7 +174,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 * **1/15/24 - MLK Day (No School)**
 * **1/16/24 - DOM Review** | [Study Guide](https://github.com/The-Marcy-Lab-School/Mod-2-DOM-Study-Guide) | [Recording](https://youtu.be/bKCYETgm6vk)
-* **1/17/24 - Async Review** | [Study Guide](https://github.com/The-Marcy-Lab-School/Mod-3-Async-Study-Guide)
+* **1/17/24 - Async Review** | [Study Guide](https://github.com/The-Marcy-Lab-School/Mod-3-Async-Study-Guide) | [Recording](https://youtu.be/FlnRSSZhOnc)
 * **1/18/24 - DOM + Async Assessment**
 
 ---
