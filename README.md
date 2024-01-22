@@ -192,6 +192,12 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - [Scrum Board Example](https://github.com/users/benspector-mls/projects/3/views/1?layout=board)
 - [Project Presentation Template](https://docs.google.com/presentation/d/1NvzL4yUaVSNFlmNtG3shNdK4j0oW3Ll2zbq8gK2vrzQ/edit?usp=sharing)
 
+#### Week 1
+
+* **1/22/24 — Mod 3 Assessment Review** | [Recording](https://youtu.be/dv-A1qGX7iY)
+* **1/22/24 — Project Week Kickoff** | [Recording](https://youtu.be/wsRK3fslq68)
+* **1/23/24 — Scrum**
+
 --- 
 
 ## Mod 5 - Data Structures & Algorithms
