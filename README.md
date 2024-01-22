@@ -182,9 +182,27 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ## Mod 4 - Core: Project Week
 
+**Resources**
+ 
+- [Project Week Overview](https://docs.google.com/document/d/1DJeh3CuHXrV6UWKbVUo42ct6b7EBgVSc6qn55IPd3zQ/edit?usp=sharing)
+- [Project Proposal Template](https://docs.google.com/document/d/1gSM_RWRAP_EJGQ7pp58Pti6PXKQJ_YWx3uvC4iRQ1EI/edit)
+- [Project Proposal Example](https://docs.google.com/document/d/1ekNpWx_LKCFGPQ74qijXTMRJJoq4sHJIB1mv9Mg8HHk/edit#heading=h.dwz367p60bre)
+- [APIs List](https://gist.github.com/MostlyFocusedMike/2a0825c062b79d33e5003f0f767ad0fa)
+- [Art Viewer Github Organization](https://github.com/Art-viewer-mike-example) ([Deployed Version 1](https://art-viewer-mike-example.github.io/art-viewer-day-1/), [V2](https://art-viewer-mike-example.github.io/art-viewer-day-2/), [V3](https://art-viewer-mike-example.github.io/art-viewer-day-3/), [V4](https://art-viewer-mike-example.github.io/art-viewer-day-4/))
+- [Scrum Board Example](https://github.com/users/benspector-mls/projects/3/views/1?layout=board)
+- [Project Presentation Template](https://docs.google.com/presentation/d/1NvzL4yUaVSNFlmNtG3shNdK4j0oW3Ll2zbq8gK2vrzQ/edit?usp=sharing)
+
 --- 
 
 ## Mod 5 - Data Structures & Algorithms
+
+**Additional Resources**
+
+- [W3 Schools - What is `this`?](https://www.w3schools.com/js/js_this.asp)
+- [MDN - What is a closure?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [What are Factory Functions?](https://www.javascripttutorial.net/javascript-factory-functions/)
+- [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
+- [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
 
 --- 
 
