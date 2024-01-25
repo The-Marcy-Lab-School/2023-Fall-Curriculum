@@ -210,6 +210,28 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
 - [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
 
+#### Week 1
+
+* **1/29/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23)
+* **1/30/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23)
+* **1/31/24 - Private Properties, Static Methods** | Repo with Code
+* **2/1/24 - Review**
+
+#### Week 2
+
+* **2/5/24 - Has Many/Belongs To** | Repo with Code
+* **2/6/24 - Implementing Has Many/Belongs To** | Repo with Code
+* **2/7/24 - Extending Classes** | Repo with Code
+* **2/8/24 - Review** | Repo with Code
+
+
+#### Week 3
+
+* **2/13/24 - Lecture** | Repo with Code
+* **2/12/24 - Review** | Repo with Code
+* **2/14/24 - Review** | Repo with Code
+* **2/15/24 - Assessment**
+
 --- 
 
 ## Mod 6 - Backend: Object Oriented Programming
