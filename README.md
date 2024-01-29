@@ -2,7 +2,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-3---core-asynchronous-javascript)**
+**[> Skip to current unit <](#mod-5---object-oriented-programming)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -11,8 +11,8 @@
 - [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---core-html-css-and-dom-manipulation)
 - [Mod 3 - Core: Asynchronous JS](#mod-3---core-asynchronous-javascript)
 - [Mod 4 - Core: Project Week](#mod-4---core-project-week)
-- [Mod 5 - Data Structures & Algorithms](#mod-5---data-structures--algorithms)
-- [Mod 6 - Backend: Object Oriented Programming](#mod-6---backend-object-oriented-programming)
+- [Mod 5 - Object Oriented Programming](#mod-5---object-oriented-programming)
+- [Mod X - Data Structures & Algorithms](#mod-x---data-structures--algorithms)
 - [Mod 7 - Backend: SQL](#mod-7---backend-sql)
 - [Mod 8 - Backend: Express](#mod-8---backend-express)
 - [Mod 9 - Backend: Project Week](#mod-9---backend-project-week)
@@ -200,7 +200,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 --- 
 
-## Mod 5 - Data Structures & Algorithms
+## Mod 5 - Object Oriented Programming
 
 **Additional Resources**
 
@@ -212,7 +212,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 1
 
-* **1/29/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23)
+* **1/29/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23) | [Recording](https://youtu.be/zVYpcVLxXe8)
 * **1/30/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23)
 * **1/31/24 - Private Properties, Static Methods** | Repo with Code
 * **2/1/24 - Review**
@@ -234,7 +234,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 --- 
 
-## Mod 6 - Backend: Object Oriented Programming
+## Mod X - Data Structures & Algorithms
 
 --- 
 
