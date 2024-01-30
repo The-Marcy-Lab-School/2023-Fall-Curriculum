@@ -213,8 +213,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 #### Week 1
 
 * **1/29/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23) | [Recording](https://youtu.be/zVYpcVLxXe8)
-* **1/30/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23)
-* **1/31/24 - Private Properties, Static Methods** | Repo with Code
+* **1/30/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23) | [Recording](https://youtu.be/Zl0MRLBTdq0)
+* **1/31/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-2-private-properties-static-methods) | Recording
 * **2/1/24 - Review**
 
 #### Week 2
