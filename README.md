@@ -219,7 +219,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 #### Week 2
 
-* **2/5/24 - Has Many/Belongs To** | Repo with Code
+* **2/5/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-0-has-many-belongs-to-f23)
 * **2/6/24 - Implementing Has Many/Belongs To** | Repo with Code
 * **2/7/24 - Extending Classes** | Repo with Code
 * **2/8/24 - Review** | Repo with Code
