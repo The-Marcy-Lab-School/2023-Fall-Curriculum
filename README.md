@@ -224,11 +224,10 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * **2/6/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
 * **2/8/24 - Extending Classes** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-3-inheritance-polymorphism-f23)
 
-
 #### Week 3
 
-* **2/13/24 - Lecture** | Repo with Code
-* **2/12/24 - Review** | Repo with Code
+* **2/12/24 - Review** | [Review 1 Recording](https://youtu.be/p2XQ8SUTpgY) | [Review 2 Recording](https://youtu.be/REpIAwRpnS4) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
+* **2/13/24 - Review** | Repo with Code
 * **2/14/24 - Review** | Repo with Code
 * **2/15/24 - Assessment**
 
