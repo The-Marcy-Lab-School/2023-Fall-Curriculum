@@ -32,6 +32,7 @@
 
 **Tips & Tricks to Success at Marcy**
 
+- [Technical Curriculum Overview - F23](https://docs.google.com/presentation/d/1DVShFW2-5n1rNWSiPx8AjL040WUfNxdoTBvO90uUYqE/edit)
 - [What is Computational Thinking?](https://youtu.be/qbnTZCj0ugI)
 - [How to Boost Your Confidence as a New Programmer](https://marcylabschool.notion.site/marcylabschool/How-to-Boost-Your-Confidence-as-a-New-Programmer-3e08b5dc231444adb5770228696041ac)
 - [The Surprising Truth About Notetaking During Lectures](https://www.youtube.com/watch?v=cRQqH18wJgw&ab_channel=BenjaminKeep%2CPhD%2CJD)
