@@ -24,10 +24,16 @@
 
 ## Orientation
 
+**Computer Setup Instructions**
+
+- **Mac Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-mac
+- **Windows/WSL Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-wsl
+- **Github Setup**: https://github.com/The-Marcy-Lab-School/github-setup
+
 **Tips & Tricks to Success at Marcy**
 
-- [How to Boost Your Confidence as a New Programmer](https://marcylabschool.notion.site/marcylabschool/How-to-Boost-Your-Confidence-as-a-New-Programmer-3e08b5dc231444adb5770228696041ac)
 - [What is Computational Thinking?](https://youtu.be/qbnTZCj0ugI)
+- [How to Boost Your Confidence as a New Programmer](https://marcylabschool.notion.site/marcylabschool/How-to-Boost-Your-Confidence-as-a-New-Programmer-3e08b5dc231444adb5770228696041ac)
 - [The Surprising Truth About Notetaking During Lectures](https://www.youtube.com/watch?v=cRQqH18wJgw&ab_channel=BenjaminKeep%2CPhD%2CJD)
 
 **Important Links to Bookmark**
@@ -35,9 +41,7 @@
 - **Canvas**: https://canvas.instructure.com/
 - **Github**: https://github.com/
 - **FreeCodeCamp**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures
-- **Mac Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-mac
-- **Windows/WSL Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-wsl
-- **Github Setup**: https://github.com/The-Marcy-Lab-School/github-setup
+- **This repo**: https://github.com/The-Marcy-Lab-School/2023-Fall-Curriculum
 
 ---
 
