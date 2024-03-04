@@ -1,7 +1,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-5---object-oriented-programming)**
+**[> Skip to current unit <](#mod-7---react)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -14,8 +14,7 @@
 - [Mod 6 - Data Structures \& Algorithms](#mod-6---data-structures--algorithms)
 - [Mod 7 - React](#mod-7---react)
 - [Mod 8 - React Project Week](#mod-8---react-project-week)
-- [Mod 9 - Backend: SQL \& Postgres](#mod-9---backend-sql--postgres)
-- [Mod 10 - Backend: Server-Side Applications \& Express](#mod-10---backend-server-side-applications--express)
+- [Mod 9 - Backend: Express, Postgres, SQL, Knex, and Auth](#mod-9---backend-express-postgres-sql-knex-and-auth)
 - [Civic Tech Hackathon](#civic-tech-hackathon)
 - [Capstone](#capstone)
 ---
@@ -270,13 +269,9 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 --- 
 
-## Mod 9 - Backend: SQL & Postgres
+## Mod 9 - Backend: Express, Postgres, SQL, Knex, and Auth
 
 --- 
-
-## Mod 10 - Backend: Server-Side Applications & Express
-
----
 
 ## Civic Tech Hackathon
 
