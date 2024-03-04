@@ -256,9 +256,13 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 ## Mod 7 - React
 
 **Resources**
+- https://react.dev/learn
 - https://react-v8.holt.courses/
 - https://github.com/btholt/complete-intro-to-react-v8
 
+**Week 1**
+
+- **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | Recording
 
 --- 
 
