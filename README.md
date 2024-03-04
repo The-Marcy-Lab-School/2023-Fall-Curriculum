@@ -262,7 +262,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 1**
 
-- **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE)
+- **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
 
 --- 
 
