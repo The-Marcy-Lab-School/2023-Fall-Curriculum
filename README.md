@@ -13,8 +13,7 @@
 - [Mod 5 - Object Oriented Programming](#mod-5---object-oriented-programming)
 - [Mod 6 - Data Structures \& Algorithms](#mod-6---data-structures--algorithms)
 - [Mod 7 - React](#mod-7---react)
-- [Mod 8 - React Project Week](#mod-8---react-project-week)
-- [Mod 9 - Backend: Express, Postgres, SQL, Knex, and Auth](#mod-9---backend-express-postgres-sql-knex-and-auth)
+- [Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth](#mod-8---backend-express-postgres-sql-knex-and-auth)
 - [Civic Tech Hackathon](#civic-tech-hackathon)
 - [Capstone](#capstone)
 ---
@@ -242,7 +241,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 1**
 - **2/20/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg)
-- **2/21/24 - LinkedLists Continued** | [Repo With Cod](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued)
+- **2/21/24 - LinkedLists Continued** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued)
 - **2/22/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues)
 
 
@@ -264,14 +263,23 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 - **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
 - **3/5/24 - useState & forms** | [Repo with Code](https://github.com/benspector-mls/7-0-1-useState-forms-f23)
+- **3/6/24 - useEffect & fetching** | Repo with Code | Recording
+- **3/7/24 - Review** | Repo with Code | Recording
+
+**Week 2**
+
+- **3/11/24 - React Context** | Repo with Code | Recording
+- **3/12/24 - Review** | Repo with Code | Recording
+- **3/13/24 - React Router** | Repo with Code | Recording
+- **3/14/24 - Review** | Repo with Code | Recording
+
+**Week 3 — Project Week!**
+
+
 
 --- 
 
-## Mod 8 - React Project Week
-
---- 
-
-## Mod 9 - Backend: Express, Postgres, SQL, Knex, and Auth
+## Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth
 
 --- 
 
