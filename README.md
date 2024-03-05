@@ -262,7 +262,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 **Week 1**
 
 - **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
-- **3/5/24 - useState & forms** | [Repo with Code](https://github.com/benspector-mls/7-0-1-useState-forms-f23)
+- **3/5/24 - useState & forms** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-1-managing-state-and-forms)
 - **3/6/24 - useEffect & fetching** | Repo with Code | Recording
 - **3/7/24 - Review** | Repo with Code | Recording
 
