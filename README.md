@@ -263,7 +263,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 - **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
 - **3/5/24 - useState & forms** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-1-managing-state-and-forms) | [Recording](https://youtu.be/f3V3e1Rxgjc)
-- **3/6/24 - fetching & useEffect** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-2-async-useEffect) | [fetching Recording](https://youtu.be/a3sVzxK0E58) | useEffect + GIPHY API recording
+- **3/6/24 - fetching & useEffect** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-2-async-useEffect) | [fetching Recording](https://youtu.be/a3sVzxK0E58) | [useEffect + GIPHY API recording](https://youtu.be/90dZ8mLq1UM)
 - **3/7/24 - Review + JSON Server** | [Repo with Code](https://github.com/benspector-mls/flashcards) | Recording
 
 **Week 2**
