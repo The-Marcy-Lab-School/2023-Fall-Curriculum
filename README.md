@@ -47,7 +47,7 @@
 
 **Resources**:
 
-- [Git Cheat Sheet](./cheatsheets/git-cheatsheet.md)
+- [Git Cheat Sheet](https://github.com/The-Marcy-Lab-School/cheatsheet-git)
 
 **Week 1**
 
@@ -66,6 +66,8 @@
 - [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 - [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
 - [Mod 1 - All Skills List](https://github.com/The-Marcy-Lab-School/1-3-0-resource_mod-1-all-skills)
+- [Regex Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-regex)
+- [JavaScripts Basics Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-javascript-basics)
 
 **Labs**
 
@@ -93,15 +95,15 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **10/23/23 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1ZoC1XUm9GJns3XqAYZGOIXt_LpUn9-VbQmdEZt_pf7M) | [Code](./mod-1/1-2-0-hofs-callbacks/lecture/index.js) | [Key Terms](./mod-1/1-2-0-hofs-callbacks/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/KMw7QqbOe3A)
 - **10/23/23 - Lab Review (Sorting)** | [Code](./mod-1/lab-reviews/1-2-0-lab-review.js) | [Lab Review Recording](https://youtu.be/o5aF9eBKjx4)
 - **10/24/23 - Array Higher Order Methods** | [Slides](https://docs.google.com/presentation/d/14E-5lhZHbfxfuCIzrPnuYNrcH84_c7UKS-D8avZ8xCg) | [Code](./mod-1/1-2-1-array-hof-methods/lecture/index.js) | [Key Terms](./mod-1/1-2-1-array-hof-methods/lecture/key-terms.md) | [Lecture Recording](https://youtu.be/K6d2WJJdqCc)
-- **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | [Cheatsheet](./cheatsheets/regex-cheatsheet.md) | [Lecture Recording](https://youtu.be/UlbuA5AZjk0)
+- **10/25/23 - Regex** | [Slides](https://docs.google.com/presentation/d/1KNxfevZGXU2srFOejf6qBgOwXznH8ddQ3ePeqTXbGiQ) | [Lecture Recording](https://youtu.be/UlbuA5AZjk0)
 - **10/25/23 - Lab Review (Array HOFs)** | [Code](./mod-1/lab-reviews/1-2-1-higher-order-function-lab-review) | Recording
 - **10/26/23 - Code Style** | [Slides](https://docs.google.com/presentation/d/1ZCYZoW4S2d89FWqYoRCbL8BB45lcEUckTJgy6QQZiIQ) | [Code](./mod-1/1-2-3-readable-style/) | [Lecture Recording](https://youtu.be/p-S3kpxcRsc)
 
 **Week 4**
 
-- **10/30/23 - Review** | [Week 1 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-0-resource_week-1-study-guide) | [Code](./mod-1/1-3-0-week-1-review/) | [Recording](https://youtu.be/ZCedVg3X6lA) | [CLI App Lab Review Recording](https://youtu.be/bhc2EDU19iU)
-- **10/31/23 - Review** | [Week 2 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-1-resource_week-2-study-guide/) | [Code](./mod-1/1-3-1-week-2-review/) | [Recording](https://youtu.be/11-qsZSv2BM)
-- **11/1/23 - Review** | [Week 3 Study Guide](https://github.com/The-Marcy-Lab-School/1-3-2-resource_week-3-study-guide/) | [Code](./mod-1/1-3-2-week-3-review/higher-order-methods.js)
+- **10/30/23 - Review of Week 1** | [Recording](https://youtu.be/ZCedVg3X6lA) | [CLI App Lab Review Recording](https://youtu.be/bhc2EDU19iU)
+- **10/31/23 - Review of Week 2** | [Recording](https://youtu.be/11-qsZSv2BM)
+- **11/1/23 - Review of Week 3** | [Code](./mod-1/1-3-2-week-3-review/higher-order-methods.js)
 - **11/2/23 - Mod 1 Assessment**
 
 ---
@@ -118,6 +120,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
 * [Codecademy: Build Interactive Websites Course](https://www.codecademy.com/learn/build-interactive-websites)
 * [Codecademy: Fullstack Engineer Career Path](https://www.codecademy.com/enrolled/paths/full-stack-engineer-career-path)
+* [DOM Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-DOM)
 
 **Labs**
 * [Lab 1: My First Site](https://github.com/The-Marcy-Lab-School/2-0-2-lab_first-site)
@@ -162,6 +165,9 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ## Mod 3 - Core: Asynchronous JavaScript
 
+**Resources**
+- [Async Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-async)
+
 **Week 1**
 
 * **1/7/24 - Intro to Promises** | [Repo with Code](https://github.com/The-Marcy-Lab-School/3-0-0-intro-to-promises-f23) | [Recording](https://youtu.be/8vkO6hY_A3w)
@@ -173,8 +179,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 **Week 2**
 
 * **1/15/24 - MLK Day (No School)**
-* **1/16/24 - DOM Review** | [Study Guide](https://github.com/The-Marcy-Lab-School/Mod-2-DOM-Study-Guide) | [Recording](https://youtu.be/bKCYETgm6vk)
-* **1/17/24 - Async Review** | [Study Guide](https://github.com/The-Marcy-Lab-School/Mod-3-Async-Study-Guide) | [Recording](https://youtu.be/FlnRSSZhOnc)
+* **1/16/24 - DOM Review** | [Recording](https://youtu.be/bKCYETgm6vk)
+* **1/17/24 - Async Review** | [Recording](https://youtu.be/FlnRSSZhOnc)
 * **1/17/24 - Fetch & Render Lab Review** | [Recording](https://youtu.be/qWXbg6aqEzM)
 * **1/18/24 - DOM + Async Assessment**
 
