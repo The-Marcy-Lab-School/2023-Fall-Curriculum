@@ -264,12 +264,12 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **3/4/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react-f23) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
 - **3/5/24 - useState & forms** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-1-managing-state-and-forms) | [Recording](https://youtu.be/f3V3e1Rxgjc)
 - **3/6/24 - fetching & useEffect** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-2-async-useEffect) | [fetching Recording](https://youtu.be/a3sVzxK0E58) | [useEffect + GIPHY API recording](https://youtu.be/90dZ8mLq1UM)
-- **3/7/24 - Review + JSON Server** | [Repo with Code](https://github.com/benspector-mls/flashcards) | Recording
+- **3/7/24 - Review + JSON Server + Flashcard App** | [Repo with Code](https://github.com/benspector-mls/flashcards) | [Recording](https://youtu.be/5kECo53eWn8)
 
 **Week 2**
 
-- **3/11/24 - React Context** | Repo with Code | Recording
-- **3/12/24 - Review** | Repo with Code | Recording
+- **3/11/24 - React Context** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-0-react-context) | Recording
+- **3/12/24 - Global Context Provider Pattern** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-1-global-context-pattern) | Recording
 - **3/13/24 - React Router** | Repo with Code | Recording
 - **3/14/24 - Review** | Repo with Code | Recording
 
