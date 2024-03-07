@@ -258,6 +258,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - https://react.dev/learn
 - https://react-v8.holt.courses/
 - https://github.com/btholt/complete-intro-to-react-v8
+- [React Week 1 Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
 
 **Week 1**
 
