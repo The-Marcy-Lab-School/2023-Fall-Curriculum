@@ -278,7 +278,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **3/11/24 - React Context** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-0-react-context) | [Recording](https://youtu.be/PiT_TGlr5EI)
 - **3/12/24 - Global Context Provider Pattern** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-1-global-context-pattern) | [Recording](https://youtu.be/Ud0UbVK0xis)
 - **3/13/24 - React Router** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-react-router) | [Recording](https://youtu.be/SAu-z-hchQU)
-- **3/14/24 - Review** | Repo with Code | Recording
+- **3/14/24 - Putting It All Together Review** | [Repo with Code](https://github.com/benspector-mls/7-1-3-react-context-router-review-f23) | [Recording](https://youtu.be/ow7lMsoOPjU)
 
 **Week 3 — Project Week!**
 
