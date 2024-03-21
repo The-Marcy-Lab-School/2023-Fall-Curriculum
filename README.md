@@ -289,6 +289,16 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ## Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth
 
+**Resources**
+
+* [Express Docs](https://expressjs.com/)
+* [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Best Practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+* [SQL Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+* [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
+* [Video: What is OAuth?](https://www.youtube.com/watch?v=t4-416mg6iU&ab_channel=JavaBrains)
+* [React + Express + Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth)
+
 **Week 1**
 
 - **4/1/24 - Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | Recording
