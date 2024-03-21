@@ -289,6 +289,17 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ## Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth
 
+**Week 1**
+
+- **4/1/24 - Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | Recording
+- **4/2/24 - Express Middleware (Static Server)** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-1-express-middleware) | Recording
+- **4/3/24 - Server-Side API Requests** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) | Recording
+- **4/4/24 - Review** | Repo with Code | Recording
+
+**Week 2**
+
+- **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | Recording
+
 --- 
 
 ## Civic Tech Hackathon
