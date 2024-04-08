@@ -1,7 +1,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-7---react)**
+**[> Skip to current unit <](#mod-8---backend)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -287,8 +287,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 --- 
 
-## Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth
-
+## Mod 8 - Backend
 **Resources**
 
 * [Express Docs](https://expressjs.com/)
