@@ -13,7 +13,7 @@
 - [Mod 5 - Object Oriented Programming](#mod-5---object-oriented-programming)
 - [Mod 6 - Data Structures \& Algorithms](#mod-6---data-structures--algorithms)
 - [Mod 7 - React](#mod-7---react)
-- [Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth](#mod-8---backend-express-postgres-sql-knex-and-auth)
+- [Mod 8 - Backend](#mod-8---backend)
 - [Civic Tech Hackathon](#civic-tech-hackathon)
 - [Capstone](#capstone)
 ---
@@ -309,7 +309,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 2**
 
-- **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording](https://youtu.be/cSE1KhQkaFM)
+- **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording (part 1)](https://youtu.be/cSE1KhQkaFM) | [Recording (part2)](https://youtu.be/8p_ODP4p8iA)
 
 --- 
 
