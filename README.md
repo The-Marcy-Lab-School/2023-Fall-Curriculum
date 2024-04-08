@@ -1,7 +1,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-7---react)**
+**[> Skip to current unit <](#mod-8---backend)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -287,8 +287,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 --- 
 
-## Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth
-
+## Mod 8 - Backend
 **Resources**
 
 * [Express Docs](https://expressjs.com/)
@@ -303,7 +302,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 1**
 
-- **4/1/24 - Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | Recording
+- **4/1/24 - Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | [Recording](https://us02web.zoom.us/rec/play/PohA4190n7tNEbmOZpyVqNs-tf371hln0Tcz1l93KMFd297-3umYGMR7UO6uYVEF0oQNGErCJGIttDr8.lX_eL8CZkZ-UsyPH?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FJwpygwln72y5vDIWOae_ql9YWTaDSU7jGAfC1f16AQGOcllab_NjPYML765lLmxi.73Fk-6jEFX6A4iY3)
 - **4/2/24 - Express Middleware (Static Server)** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-1-express-middleware) | Recording
 - **4/3/24 - Server-Side API Requests** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) | Recording
 - **4/4/24 - Review** | Repo with Code | Recording
