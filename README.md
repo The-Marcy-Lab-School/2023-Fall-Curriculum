@@ -310,6 +310,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 **Week 2**
 
 - **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording (part 1)](https://youtu.be/cSE1KhQkaFM) | [Recording (part2)](https://youtu.be/8p_ODP4p8iA)
+- **4/9/24 - Data Model + API Continued** | [Recording](https://youtu.be/MVAfwrKewiw)
 
 --- 
 
