@@ -311,7 +311,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 - **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording (part 1)](https://youtu.be/cSE1KhQkaFM) | [Recording (part2)](https://youtu.be/8p_ODP4p8iA)
 - **4/9/24 - Data Model + API Continued** | [Recording](https://youtu.be/MVAfwrKewiw)
-- **4/10/24 - Frontend/Backend App Build Review** | [Recording](https://youtu.be/sKh74u6S2lM) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23)
+- **4/10/24 - Frontend/Backend App Build Review** | [Recording](https://youtu.be/sKh74u6S2lM) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
+- **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
 
 --- 
 
