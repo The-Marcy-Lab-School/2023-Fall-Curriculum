@@ -294,6 +294,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 * [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Best Practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 * [Video: What is Postgres?](https://www.youtube.com/watch?v=Yfrrjt1ieyk&ab_channel=Kinsta)
+* [Learn: SQL Bolt](https://sqlbolt.com/)
 * [Launch School Intro to SQL Online Textbook](https://launchschool.com/books/sql)
 * [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
 * [SQL Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
@@ -313,6 +314,10 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **4/9/24 - Data Model + API Continued** | [Recording](https://youtu.be/MVAfwrKewiw)
 - **4/10/24 - Frontend/Backend App Build Review** | [Recording](https://youtu.be/sKh74u6S2lM) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
 - **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
+
+**Week 3**
+
+- 
 
 --- 
 
