@@ -295,13 +295,14 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
   * [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
   * [Best Practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 * Databases
-  * [Video: What is Postgres?](https://www.youtube.com/watch?v=Yfrrjt1ieyk&ab_channel=Kinsta)
   * [Postgres Setup Instructions](https://github.com/The-Marcy-Lab-School/postgres-setup)
+  * [Video: What is Postgres?](https://www.youtube.com/watch?v=Yfrrjt1ieyk&ab_channel=Kinsta)
   * https://pgexercises.com/
   * [Learn: SQL Bolt](https://sqlbolt.com/)
   * [Launch School Intro to SQL Online Textbook](https://launchschool.com/books/sql)
   * [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
   * [SQL Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+  * https://dbdiagram.io/
 * Auth
   * [Video: What is OAuth?](https://www.youtube.com/watch?v=t4-416mg6iU&ab_channel=JavaBrains)
   * [React + Express + Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth)
