@@ -324,8 +324,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 **Week 3**
 
 - **4/15/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | Recording
-- **4/16/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-knex)
-
+- **4/16/24 - Association Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations)
+- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex)
 --- 
 
 ## Civic Tech Hackathon
