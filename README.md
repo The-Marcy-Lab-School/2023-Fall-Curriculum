@@ -326,7 +326,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **4/15/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://youtu.be/KYA9kX95SI4)
 - **4/15/24 - Lab Review: SQL Practice** | [Practice Code](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases/tree/main/practice) | [Recording](https://youtu.be/AMpVrbLi_Vk)
 - **4/16/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://youtu.be/5_Qsgvd4maU)
-- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex)
+- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://youtu.be/gHnRRXlFK4Y)
 - **4/18/24 - Review** | 
 
 --- 
