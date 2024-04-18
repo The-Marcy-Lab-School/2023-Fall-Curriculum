@@ -290,6 +290,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 ## Mod 8 - Backend
 **Resources**
 
+* [Backend Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-backend)
 * Express:
   * [Express Docs](https://expressjs.com/)
   * [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
