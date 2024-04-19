@@ -330,6 +330,13 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://youtu.be/gHnRRXlFK4Y)
 - **4/18/24 - SQL + Knex Review** | Same repo as above | [Recording](https://youtu.be/BToG4rFZjao)
 
+**Week 4**
+
+- **4/22/24 - Building A Fullstack App (backend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | Recording
+- **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | Recording
+- **4/24/24 - Migrations & Seeds** | Repo | Recording
+- **4/24/24 - Intro to Auth** | Repo | Recording
+
 --- 
 
 ## Civic Tech Hackathon
