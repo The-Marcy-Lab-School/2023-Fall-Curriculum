@@ -332,7 +332,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 4**
 
-- **4/22/24 - Building A Fullstack App (backend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/YLjJDt0pPv0)
+- **4/22/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/YLjJDt0pPv0)
+- **4/22/24 - Lab Review: Creating A Posts Model + Controllers** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/2okHTScEwkc)
 - **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | Recording
 - **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | Recording
 - **4/24/24 - Intro to Auth** | Repo | Recording
