@@ -335,8 +335,12 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **4/22/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/YLjJDt0pPv0)
 - **4/22/24 - Lab Review: Creating A Posts Model + Controllers** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/2okHTScEwkc)
 - **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | Recording
-- **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | Recording
-- **4/24/24 - Intro to Auth** | Repo | Recording
+- **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | [Recording](https://youtu.be/dgiv4lafqAk)
+- **4/24/24 - Migrations & Seeds in the React Express Auth Template** | [React Express Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/x1y1gFpu9_I)
+
+**Week 5**
+
+- **4/28/24 - Hashing & Salting with Bcrypt** | 
 
 --- 
 
