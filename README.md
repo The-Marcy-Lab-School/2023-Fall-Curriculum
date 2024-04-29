@@ -342,6 +342,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 **Week 5**
 
 - **4/28/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://youtu.be/ILiGTs8Q68A)
+- **4/28/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/RNWA3jOx2Sg)
 
 --- 
 
