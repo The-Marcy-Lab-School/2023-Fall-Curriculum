@@ -336,11 +336,12 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - **4/22/24 - Lab Review: Creating A Posts Model + Controllers** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://youtu.be/2okHTScEwkc)
 - **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | Recording
 - **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | [Recording](https://youtu.be/dgiv4lafqAk)
-- **4/24/24 - Migrations & Seeds in the React Express Auth Template** | [React Express Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/x1y1gFpu9_I)
+- **4/25/24 - Migrations & Seeds in the React Express Auth Template** | [React Express Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/x1y1gFpu9_I)
+- **4/25/24 - Database Schema Design + ERDs** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-3-schema-design) | [Recording](https://youtu.be/33lgJRVbTt8)
 
 **Week 5**
 
-- **4/28/24 - Hashing & Salting with Bcrypt** | 
+- **4/28/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://youtu.be/ILiGTs8Q68A)
 
 --- 
 
