@@ -295,6 +295,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
   * [Express Docs](https://expressjs.com/)
   * [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
   * [Best Practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+* Deployment:
+  * [How to Deploy On Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions)
 * Databases
   * [Postgres Setup Instructions](https://github.com/The-Marcy-Lab-School/postgres-setup)
   * [Video: What is Postgres?](https://www.youtube.com/watch?v=Yfrrjt1ieyk&ab_channel=Kinsta)
