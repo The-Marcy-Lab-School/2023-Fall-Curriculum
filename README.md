@@ -341,13 +341,16 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 5**
 
-- **4/28/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://youtu.be/ILiGTs8Q68A)
-- **4/28/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/RNWA3jOx2Sg)
-- **4/29/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/f9zwwaYgYW8)
+- **4/29/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://youtu.be/ILiGTs8Q68A)
+- **4/29/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/RNWA3jOx2Sg)
+- **4/30/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/f9zwwaYgYW8)
+- **4/29/24 - Cookies & Authorization** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/EV4IvYZG0lE)
 
 --- 
 
 ## Civic Tech Hackathon
+
+* [How to Deploy On Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions)
 
 --
 
