@@ -264,7 +264,7 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 - https://react.dev/learn
 - https://react-v8.holt.courses/
 - https://github.com/btholt/complete-intro-to-react-v8
-- [React Week 1 Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
+- [React Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
 
 **Week 1**
 
@@ -353,7 +353,18 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 ## Civic Tech Hackathon
 
-* [How to Deploy On Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions)
+* **General Resources**
+  * [Civic Tech Hackathon Rubric](https://docs.google.com/spreadsheets/d/1NooPoda9wb4EOKGYWLsMWCWXYOy9fq0FuS0lDaCv0IU/edit#gid=35795624)
+  * [Civic Tech Hackathon Handbook](https://docs.google.com/document/d/1w_a5vnOm0eSkIByL9eXaoN-2vlxZ4c4AJTxRwGMhFSk/edit)
+* **Technical Resources**
+  * [React Express Auth Template](https://github.com/The-Marcy-Lab-School/react-express-auth)
+  * [How to Deploy On Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions)
+  * [React Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
+  * [Backend Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-backend)
+* **Sprint Kickoff Slides:**
+  * [Week 1](https://docs.google.com/presentation/d/1KjqlofaHPwRvrr3Uj121staVAMUjxqtdZru528X-_JU/edit#slide=id.g1ff32f38cc1_0_252)
+  * [Week 2](https://docs.google.com/presentation/d/1h3Xc9z2Zn_vPaSnF2HZwssWzvBOHpWyiJCIjq7EAKnc/edit?usp=sharing)
+  * [Week 3](https://docs.google.com/presentation/d/1YT1QHjcbZXv08rbFjWXkfeyQ0ez5K-gDCcDUqQMDVxw/edit?usp=sharing)
 
 --
 
