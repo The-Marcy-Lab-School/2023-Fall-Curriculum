@@ -312,24 +312,24 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
 
 **Week 1**
 
-- **4/1/24 - Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | [Recording](https://us02web.zoom.us/rec/play/PohA4190n7tNEbmOZpyVqNs-tf371hln0Tcz1l93KMFd297-3umYGMR7UO6uYVEF0oQNGErCJGIttDr8.lX_eL8CZkZ-UsyPH?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FJwpygwln72y5vDIWOae_ql9YWTaDSU7jGAfC1f16AQGOcllab_NjPYML765lLmxi.73Fk-6jEFX6A4iY3)
-- **4/2/24 - Express Middleware (Static Server)** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-1-express-middleware) | Recording
-- **4/3/24 - Server-Side API Requests** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) | Recording
+- **4/1/24 - 8-0-0: Intro to Express** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-0-intro-to-express) | [Recording](https://us02web.zoom.us/rec/play/PohA4190n7tNEbmOZpyVqNs-tf371hln0Tcz1l93KMFd297-3umYGMR7UO6uYVEF0oQNGErCJGIttDr8.lX_eL8CZkZ-UsyPH?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FJwpygwln72y5vDIWOae_ql9YWTaDSU7jGAfC1f16AQGOcllab_NjPYML765lLmxi.73Fk-6jEFX6A4iY3)
+- **4/2/24 - 8-0-1: Express Middleware (Static Server)** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-1-express-middleware) | Recording
+- **4/3/24 - 8-0-2: Server-Side API Requests** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) | Recording
 - **4/4/24 - Review** | Repo with Code | Recording
 
 **Week 2**
 
-- **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording (part 1)](https://youtu.be/cSE1KhQkaFM) | [Recording (part2)](https://youtu.be/8p_ODP4p8iA)
-- **4/9/24 - Data Model + API Continued** | [Recording](https://youtu.be/MVAfwrKewiw)
-- **4/10/24 - Frontend/Backend App Build Review** | [Recording](https://youtu.be/sKh74u6S2lM) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
-- **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
+- **4/8/24 - 8-1-0: Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Review Notes + Diagram](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model/blob/main/review.md) | [Recording (part 1)](https://youtu.be/cSE1KhQkaFM) | [Recording (part2)](https://youtu.be/8p_ODP4p8iA)
+- **4/9/24 - 8-1-0: Data Model + API Continued** | [Recording](https://youtu.be/MVAfwrKewiw)
+- **4/10/24 - 8-1-2: Frontend/Backend App Build Review** | [Recording](https://youtu.be/sKh74u6S2lM) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
+- **4/11/24 - 8-1-2: MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
 
 **Week 3**
 
-- **4/15/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://youtu.be/KYA9kX95SI4)
+- **4/15/24 - 8-2-0: Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://youtu.be/KYA9kX95SI4)
 - **4/15/24 - Lab Review: SQL Practice** | [Practice Code](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases/tree/main/practice) | [Recording](https://youtu.be/AMpVrbLi_Vk)
-- **4/16/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://youtu.be/5_Qsgvd4maU)
-- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://youtu.be/gHnRRXlFK4Y)
+- **4/16/24 - 8-2-1: Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://youtu.be/5_Qsgvd4maU)
+- **4/17/24 - 8-2-2: Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://youtu.be/gHnRRXlFK4Y)
 - **4/18/24 - SQL + Knex Review** | Same repo as above | [Recording](https://youtu.be/BToG4rFZjao)
 
 **Week 4**
