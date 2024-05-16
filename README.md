@@ -330,5 +330,8 @@ Labs are mini-projects that will give you an opportunity to put your learnings t
   - [MayaSnax Product Specs](https://docs.google.com/document/d/1pUjQ5itf3WRjt3Fb5AYTGT6MCBs9pJUzCyNskLO1Iaw/edit)
   - [MayaSnax Scrum Board](https://github.com/users/EMarcantonio/projects/1/views/1?layout=board)
   - [Recording Link](https://us02web.zoom.us/rec/share/dJe07_196SijKzgj0jpccniwbjN817hj7SmRFm8xZQf67brkvuaQ-Pj6ZrjO1LS5.441-RbpmCuTcjTH0?startTime=1715006180000)
+* **Workshops**
+  * [Video: Adding a Post Feature Fullstack](https://youtu.be/lmhagsP1i-8)
+
 
 ## Capstone
