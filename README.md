@@ -31,6 +31,7 @@
 - [Technical Curriculum Overview - F23](https://docs.google.com/presentation/d/1DVShFW2-5n1rNWSiPx8AjL040WUfNxdoTBvO90uUYqE/edit)
 - [What is Computational Thinking?](https://youtu.be/qbnTZCj0ugI)
 - [How to Boost Your Confidence as a New Programmer](https://marcylabschool.notion.site/marcylabschool/How-to-Boost-Your-Confidence-as-a-New-Programmer-3e08b5dc231444adb5770228696041ac)
+- [How to use Notion for Note Taking](https://youtu.be/0h-WSrckaq8?si=N6_D5GbwiIIar10h)
 - [The Surprising Truth About Note-taking During Lectures](https://www.youtube.com/watch?v=cRQqH18wJgw&ab_channel=BenjaminKeep%2CPhD%2CJD)
 
 **Important Links to Bookmark**
